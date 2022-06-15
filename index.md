@@ -353,7 +353,7 @@ of code below the Schedule `<h2>` header below with
 
 <h2 id="schedule">Schedule Group 2</h2>
 
-{% include custom-schedule.html %}
+{% include custom-schedule2.html %}
 
 <hr/>
 
