@@ -48,8 +48,6 @@ TODO: Add links... Screenshot?
 
 <img src="https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/_episodes/Example1.JPEG" height="800" align="middle"  /> 
 
-{google_docs}https://docs.google.com/spreadsheets/d/1Lmmn7a1F95EgF1hMInTpa6Sm3_ejMl4D1DlJgAQ8V0M/edit?usp=sharing{/google_docs}	
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfWe2BGVRMVRm_7jtDY9QbiJWBN1jSGIEsPBJt5aLC5q0IdwcBdcenW7CsEXFq9l-huuB1FyE27NuI/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 												
 
 
@@ -58,10 +56,6 @@ TODO: Add links... Screenshot?
 
 <img src="https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/_episodes/Example2.jpg" height="800" align="middle"  /> 
 
------
-| column1? | Column2? | 3? |
-| Text? | more text? | |
------
 
 ## Next Up: Individual Specimen Data Transcriptions
 
