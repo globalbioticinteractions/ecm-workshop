@@ -65,7 +65,7 @@ TODO: Add links... Screenshot?
 
 
 
-{$ comment %}
+{% comment %}
 Material from copied template (just case wat to copy any formatting later..)
 
 ###  How many records are in the GloBI dataset. It is a lot!
