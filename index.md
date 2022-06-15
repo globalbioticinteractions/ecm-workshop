@@ -105,9 +105,9 @@ The proposed outcome of this workshop is to gain a better understanding of bioti
 
 ## Acknowledgements
 
-This workshop is supported through the <img src="fig/nsf_logo.png" class="inline-image"> [National Science Foundation](https://nsf.gov) award "Towards a Sustainable Management of Insect Collections in the U.S. through the Entomological Collections Management Workshop," Award number [DBI:1640919](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1640919) Additional support is provided by the <img src="fig/parasite_tracker_logo.png" class="inline-image"> [Terrestrial Parasite Tracker](https://parasitetracker.org) project through the <img src="fig/nsf_logo.png" class="inline-image"> [National Science Foundation](https://nsf.gov) award "Collaborative Research: Digitization TCN: Digitizing collections to trace parasite-host associations and predict the spread of vector-borne disease," Award numbers [DBI:1901932](https://nsf.gov/awardsearch/showAward?AWD_ID=1901932&HistoricalAwards=false) and [DBI:1901926](https://nsf.gov/awardsearch/showAward?AWD_ID=1901926&HistoricalAwards=false) . 
+This workshop is supported through the <img src="fig/nsf_logo.png" class="inline-image"> [National Science Foundation](https://nsf.gov) award "Towards a Sustainable Management of Insect Collections in the U.S. through the Entomological Collections Management Workshop," Award number [DBI:1640919](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1640919) Additional support is provided by the <img src="fig/parasite_tracker_logo.png" class="inline-image"> [Terrestrial Parasite Tracker](https://parasitetracker.org) project through the <img src="fig/nsf_logo.png" class="inline-image"> [National Science Foundation](https://nsf.gov) award "Collaborative Research: Digitization TCN: Digitizing collections to trace parasite-host associations and predict the spread of vector-borne disease," Award numbers [DBI:1901932](https://nsf.gov/awardsearch/showAward?AWD_ID=1901932&HistoricalAwards=false) and [DBI:1901926](https://nsf.gov/awardsearch/showAward?AWD_ID=1901926&HistoricalAwards=false). 
 
-Big thanks to Kat Sullivan (MPM | TPT) for providing excellent workshop/lesson content and templates, and to all the <img src="fig/globi_logo.png" class="inline-image">[GloBI partners](https://globalbioticinteractions.org/about#partners) for their support.
+Big thanks to Kat Sullivan (MPM/TPT) for providing excellent workshop/lesson content and templates, and to all the <img src="fig/globi_logo.png" class="inline-image">[GloBI partners](https://globalbioticinteractions.org/about#partners) for their support.
 
 A special thanks to the thousands of (citizen) scientists and their institutions for openly sharing their [datasets](https://globalbioticinteractions.org/sources). Also, thanks to the thousands of software engineers for providing high quality open source software on which GloBI and this Carpentries lessions is built . 
 
@@ -192,13 +192,13 @@ Modify the block below if there are any special requirements.
 <p id="requirements">
   <strong>Requirements:</strong>
   {% if online == "false" %}
-    Participants must bring a laptop with a
+    Online participants must bring a laptop with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% else %}
-    Participants must have access to a computer with a
-    Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
+    Online participants must have access to a computer with a
+    Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on for downloading purposes.
   {% endif %}
-  They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  Internet access and the ability to download worksheets (or copy the templates into Google Sheets) is required. 
 </p>
 
 {% comment %}
@@ -347,7 +347,11 @@ of code below the Schedule `<h2>` header below with
 `{% include custom-schedule.html %}`.
 {% endcomment %}
 
-<h2 id="schedule">Schedule</h2>
+<h2 id="schedule">Schedule Group 1</h2>
+
+{% include custom-schedule.html %}
+
+<h2 id="schedule">Schedule Group 2</h2>
 
 {% include custom-schedule.html %}
 
@@ -355,6 +359,9 @@ of code below the Schedule `<h2>` header below with
 
 ## Recording
 
+A recording of this workshop will be added after the event in this location.
+
+{% comment %}
 You can find a mp4 recording of the 2021-04-28 event via:
 
 > Seltmann & Poelen. 2021. A Practical Exploration of Biotic Interaction Data Management and Information Retrieval through Terrestrial Parasite Tracker (TPT) and Global Biotic Interactions (GloBI) [Workshop]. Zenodo. [doi:10.5281/zenodo.4759060](https://doi.org/10.5281/zenodo.4759060) 
@@ -363,7 +370,7 @@ or streaming online on Vimeo at:
 
 <iframe src="https://player.vimeo.com/video/546669878" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/546669878">A Practical Exploration of Biotic Interaction Data Management and Information Retrieval through TPT and GloBI</a> from <a href="https://vimeo.com/idigbio">iDigBio</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
+{% endcomment %}
 
 {% comment %}
 SETUP
