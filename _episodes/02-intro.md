@@ -6,8 +6,9 @@ questions:
 - "What will we be doing?"
 - "What is the purpose of this exercise?"
 objectives:
-- "Understand the available ways to get interaction data"
-- "Understand the columns of the downloaded data"
+- "Explain activity"
+- "Go over example specimens"
+- "Provide materials for workshop activity"
 keypoints:
 - "Association data is not always straight forward"
 - "There may be different interpretations of data depending on the provider or user"
@@ -27,17 +28,51 @@ keypoints:
 
 ### Objectives
 -----
-> Navigate to the [GloBI Data Products](https://www.globalbioticinteractions.org/data) page and explore the [Original Data Sources](https://globalbioticinteractions.org/sources).
+> 1. Gain a better understanding of parasite collections interactions data
+> 2. Practice transcribing specimen interactions data using real examples
+> 3. Discuss (first in small groups, then as a network) different ways in which species interactions data can be interpreted 
+> 4. Compile a list of verbatim terms currently used to describe associations on specimen labels 
+> 5. Compile a set of ‘interaction types’ derived from ‘human interpreted interactions’
+> 6. Share outcomes (e.g., interactions translation table)
 
 
 ### Where to find materials for this activity
 -----
 
+TODO: Add links... Screenshot? 
 <img src="https://github.com/globalbioticinteractions/interaction-data-workshop/raw/gh-pages/fig/interaction-data.png" height="800" align="middle"  />
 
-**stable** versions of the data are versioned in the [doi:10.5281/zenodo.3950589](https://zenodo.org/record/3950590) GloBI data publication. A new version is done about every six months.
 
-**snapshot** are the most recent, live data. Thus, this could change daily! Great for exploration and preliminary analysis.
+### Example 1.
+-----
+
+<img src="https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/_episodes/Example1.JPEG" height="800" align="middle"  /> 
+
+{google_docs}https://docs.google.com/spreadsheets/d/1Lmmn7a1F95EgF1hMInTpa6Sm3_ejMl4D1DlJgAQ8V0M/edit?usp=sharing{/google_docs}	
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfWe2BGVRMVRm_7jtDY9QbiJWBN1jSGIEsPBJt5aLC5q0IdwcBdcenW7CsEXFq9l-huuB1FyE27NuI/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+												
+
+
+### Example 2.
+-----
+
+<img src="https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/_episodes/Example2.jpg" height="800" align="middle"  /> 
+
+-----
+| column1? | Column2? | 3? |
+| Text? | more text? | |
+-----
+
+## Next Up: Individual Specimen Data Transcriptions
+
+[Individual Data Transcriptions (Worksheet Activity)](../03-individual). 
+
+
+
+
+
+{$ comment %}
+Material from copied template (just case wat to copy any formatting later..)
 
 ###  How many records are in the GloBI dataset. It is a lot!
 -----
@@ -59,11 +94,6 @@ wc -l interactions.csv
 > Take a moment to discuss as a group why it is important to version, publish, or archive a copy of the GloBI dataset you use for research. What are some ways to archive datasets?
 {: .discussion}
 
-## Next Up: Reviewing the Reviews
-
-If you'd like to follow along while working with the entire dataset, please jump to [Working with the Whole Dataset](../03-ixodes-whole-dataset). 
-
-If you would like to explore GloBI data through the GloBI webpage, please visit lesson episode [Point and Click](../04-ixodes-point-and-click).
-
+{% endcomment %}
 
 
