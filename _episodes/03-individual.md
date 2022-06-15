@@ -1,5 +1,5 @@
 ---
-title: "Working with the Whole Dataset"
+title: "Individual Data Transcriptions Worksheet activity"
 teaching: 20
 exercises: 10
 questions:
