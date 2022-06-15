@@ -3,7 +3,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "Entomology Collections Association Data Workshop"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+venue: "Entomology Collections Management Association Data Workshop"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "in-person @ ASU | online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "FIXME"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "FIXME"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
@@ -92,15 +92,16 @@ Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
 
-TODO REPLACE DESCRIPTION
+This Carpentries workshop activity is part of the 4th offering of the Entomological Collections Management (ECM) Workshop. This hybrid model workshop activity will be held both in-person at Arizona State University (ASU) in Tempe, Arizona and virtually on June 22nd. The full ECM Workshop is from June 20-24, 2022 and is also following a hybrid model (on-site events begin the evening of the 19th) (see the [ECM Workshop site](https://ecnweb.net/workshop/)).
 
-Join Jorrit Poelen and Katja Seltmann for "A Practical Exploration of Biotic Interaction Data Management and Information Retrieval through Terrestrial <a href="https://parasitetracker.org/">Parasite Tracker (TPT)</a> and <a href="https://globalbioticinteractions.org">Global Biotic Interactions (GloBI)</a>." This workshop is facilitated by <a href="https://idigbio.org">Integrated Digitized Biocollections (iDigBio)</a>. For more information see <a href="https://www.idigbio.org/content/practical-exploration-biotic-interaction-data-management-and-information-retrieval-through">iDigBio's workshop wiki</a>.
+Join Erika Tucker and Jorrit Poelen for an examination of specimen association data and terminology followed by discussion on interpretations and downsteam usage. 
 
-During this two-hour long, participatory workshop collection managers, researchers, or data providers will use GloBI for data management and information retrieval. Our group exploration into the data will cover the data origins and data integration process and data products.
+During this one-hour long, participatory workshop for collection managers, collection caretakers, and anyone interested in learning about association data, we will examine label data from real specimens in collections that have association data.  We will discuss commonly used terms one may encounter in many databases, potential interpretations, and how best to capture data so that is usable by researchers and data users downstream. 
 
-This workshop is open to anyone interested in biotic or species interaction data even if you are presently not using GloBI. We will highlight data from the Terrestrial Parasite Tracker project, but the methods are available for anyone interested in biotic interactions (see more at <a href="https://www.globalbioticinteractions.org/sources">https://www.globalbioticinteractions.org/sources</a>).
+This workshop is open to anyone interested in biotic or species interaction data even if you are presently not using GloBI. We will highlight data from the Terrestrial Parasite Tracker project, but the methods are available for anyone interested in biotic interactions (see more at https://www.globalbioticinteractions.org/sources).
 
-The proposed outcome of this workshop is a reusable Carpentries lesson and improved documentation on methods to integrate and access biotic interaction data. We will work together through a series of exploratory data exercises. No programming experience is required, and you will use your own device to download data and create Google Sheets. Everyone will contribute during this workshop. Bring snacks! :)
+The proposed outcome of this workshop is to gain a better understanding of biotic association data, how it can be interpreted, and how it may be used in the future. We will work together through a series of exploratory data exercises. No programming experience is required, and you will use your own device to download data and create Google Sheets if you are attending virtually. If you are attending in-person, physical images and worksheets will be handed out. Everyone will contribute during this workshop. 
+
 
 ## Acknowledgements
 A special thanks to the thousands of (citizen) scientists and their institutions for openly sharing their [datasets](https://globalbioticinteractions.org/sources). Also, thanks for thousands of software engineers for providing high quality open source software on which GloBI is built. 
