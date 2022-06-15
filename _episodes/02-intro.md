@@ -1,33 +1,36 @@
 ---
-title: "Getting Interaction Data"
-teaching: 5
-exercises: 5
+title: "Introduction & Examples"
+teaching: 5 minutes
+exercises: 0
 questions:
-- "Where can I download interaction data?"
-- "What formats are the data available?"
+- "What will we be doing?"
+- "What is the purpose of this exercise?"
 objectives:
 - "Understand the available ways to get interaction data"
 - "Understand the columns of the downloaded data"
 keypoints:
-- "GloBI has interaction data that can be accessed as a full dataset"
-- "Better to use the full or whole dataset than the APIs"
+- "Association data is not always straight forward"
+- "There may be different interpretations of data depending on the provider or user"
 ---
 
 
-### Getting oriented with GloBI interaction data
+### Description
 -----
-> Let's get oriented with the interaction data found on GloBI. GloBI data products are *interpreted* in order to bring together disparate data sources (literature, observations, collections, etc.). This means that GloBI data products are opinionated and may be incomplete compared to the original data sources. Original data can be found from the citations and these should still be considered the detailed building blocks for the entire interaction dataset. 
+> This hands-on exercise was developed to help data providers transcribe specimen-level data that contains information about associated taxa/specimens. This activity will be focused on parasite-host records, and how to consistently capture interaction data from specimen labels. We will examine specimens that vary in quality of available interaction information on the label and practice data transcription and interaction interpretation for downstream integration with GloBI.
 
+{% comment %}
 > Some of the different sources of data include natural history collection records, observations extracted from the literature, interaction and network datasets, observations from community science programs and other, larger aggregated datasets.
 
 <img src="https://github.com/globalbioticinteractions/interaction-data-workshop/blob/gh-pages/fig/data-sources.png?raw=true" height="300" align="middle" />
+{% endcomment %}
 
-### Where to find data
+
+### Objectives
 -----
 > Navigate to the [GloBI Data Products](https://www.globalbioticinteractions.org/data) page and explore the [Original Data Sources](https://globalbioticinteractions.org/sources).
 
 
-### What is what?
+### Where to find materials for this activity
 -----
 
 <img src="https://github.com/globalbioticinteractions/interaction-data-workshop/raw/gh-pages/fig/interaction-data.png" height="800" align="middle"  />
