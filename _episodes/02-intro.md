@@ -46,7 +46,7 @@ TODO: Add links... Screenshot?
 ### Example 1.
 -----
 
-<img src="https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/_episodes/Example1.JPEG" height="800" align="middle"  /> 
+<img src="https://github.com/globalbioticinteractions/ecm-workshop/_episodes/Example1.JPEG" height="800" align="middle"  /> 
 
 												
 
@@ -54,7 +54,7 @@ TODO: Add links... Screenshot?
 ### Example 2.
 -----
 
-<img src="https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/_episodes/Example2.jpg" height="800" align="middle"  /> 
+<img src="https://github.com/globalbioticinteractions/ecm-workshop/_episodes/Example2.jpg" height="800" align="middle"  /> 
 
 
 ## Next Up: Individual Specimen Data Transcriptions
