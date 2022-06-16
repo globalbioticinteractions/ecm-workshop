@@ -40,7 +40,7 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 
 {% comment %}
 Check DC curriculum
-{% endcomment %}
+
 
 {% if site.carpentry == "dc" %}
 {% unless site.curriculum == "dc-ecology" or site.curriculum == "dc-genomics" or site.curriculum == "dc-socsci" or site.curriculum == "dc-geospatial" %}
@@ -49,6 +49,8 @@ It looks like you are setting up a website for a Data Carpentry curriculum but y
 </div>
 {% endunless %}
 {% endif %}
+{% endcomment %}
+
 
 {% comment %}
 Check SWC curriculum
@@ -102,6 +104,101 @@ This workshop is open to anyone interested in biotic or species interaction data
 
 The proposed outcome of this workshop is to gain a better understanding of biotic association data, how it can be interpreted, and how it may be used in the future. We will work together through a series of exploratory data exercises. No programming experience is required, and you will use your own device to download data and create Google Sheets if you are attending virtually. If you are attending in-person, physical images and worksheets will be handed out. Everyone will contribute during this workshop. 
 
+{% comment %}
+SCHEDULE
+
+Show the workshop's schedule.
+
+Small changes to the schedule can be made by modifying the
+`schedule.html` found in the `_includes` folder for your
+workshop type (`swc`, `lc`, or `dc`). Edit the items and
+times in the table to match your plans. You may also want to
+change 'Day 1' and 'Day 2' to be actual dates or days of the
+week.
+
+For larger changes, a blank template for a 4-day workshop
+(useful for online teaching for instance) can be found in
+`_includes/custom-schedule.html`. Add the times, and what
+you will be teaching to this file. You may also want to add
+rows to the table if you wish to break down the schedule
+further. To use this custom schedule here, replace the block
+of code below the Schedule `<h2>` header below with
+`{% include custom-schedule.html %}`.
+{% endcomment %}
+
+<h2 id="schedule">Schedule Group 1</h2>
+
+{% include custom-schedule.html %}
+
+<h2 id="schedule">Schedule Group 2</h2>
+
+{% include custom-schedule2.html %}
+
+<hr/>
+
+{% comment %}
+SETUP
+
+Delete irrelevant sections from the setup instructions.  Each
+section is inside a 'div' without any classes to make the beginning
+and end easier to find.
+
+This is the other place where people frequently make mistakes, so
+please preview your site before committing, and make sure to run
+'tools/check' as well.
+{% endcomment %}
+
+<h2 id="setup">Setup</h2>
+
+<p>
+  To participate in this
+  {% if site.carpentry == "swc" %}
+  Software Carpentry
+  {% elsif site.carpentry == "dc" %}
+  Data Carpentry
+  {% elsif site.carpentry == "lc" %}
+  Library Carpentry
+  {% endif %}
+  workshop,
+  you will need internet access and the ability to download spreadsheet files (.xlsx or .csv) or to use spreadsheet files in [Google Docs/Sheets](https://www.google.com/sheets/about/).
+  In addition, you will need an up-to-date web browser.
+</p>
+<p>
+  We maintain a list of common issues that occur during installation as a reference for instructors
+  that may be useful on the
+  <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
+</p>
+
+{% comment %}
+For online workshops, the section below provides:
+- installation instructions for the Zoom client
+- recommendations for setting up Learners' workspace so they can follow along
+  the instructions and the videoconferencing
+
+If you do not use Zoom for your online workshop, edit the file
+`_includes/install_instructions/videoconferencing.html`
+to include the relevant installation instrucctions.
+{% endcomment %}
+{% if online != "false" %}
+{% include install_instructions/videoconferencing.html %}
+{% endif %}
+
+{% comment %}
+These are the installation instructions for the tools used
+during the workshop.
+{% endcomment %}
+
+{% if site.carpentry == "swc" %}
+{% include swc/setup.html %}
+{% elsif site.carpentry == "dc" %}
+{% include dc/setup.html %}
+{% elsif site.carpentry == "lc" %}
+{% include lc/setup.html %}
+{% elsif site.carpentry == "pilot" %}
+Please check the "Setup" page of
+[the lesson site]({{ site.lesson_site }}) for instructions to follow
+to obtain the software and data you will need to follow the lesson.
+{% endif %}
 
 ## Acknowledgements
 
@@ -113,24 +210,6 @@ A special thanks to the thousands of (citizen) scientists and their institutions
 
 <a href="https://parasitetracker.org"><img src="fig/parasite_tracker_logo.png" class="inline-image" style="height: 5em;"></a> <a href="https://nsf.gov"><img src="fig/nsf_logo.png" class="inline-image" style="height: 6em;"></a> <a href="https://www.idigbio.org/"><img src="fig/idigbio_logo.png" class="inline-image" style="height: 4em;"></a> <a href="https://globalbioticinteractions.org"><img src="fig/globi_logo.png" class="inline-image" style="height: 5em;"></a>
 
-
-## Disclaimer
-
-Note that this is not (yet) an official Carpentries workshop, but we are working towards becoming one.
-
-{% comment %}
-AUDIENCE
-
-Explain who your audience is.  (In particular, tell readers if the
-workshop is only open to people from a particular institution.
-{% endcomment %}
-{% if site.carpentry == "swc" %}
-{% include swc/who.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/who.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/who.html %}
-{% endif %}
 
 {% comment %}
 LOCATION
@@ -325,37 +404,6 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 <hr/>
 {% endif %}
 
-{% comment %}
-SCHEDULE
-
-Show the workshop's schedule.
-
-Small changes to the schedule can be made by modifying the
-`schedule.html` found in the `_includes` folder for your
-workshop type (`swc`, `lc`, or `dc`). Edit the items and
-times in the table to match your plans. You may also want to
-change 'Day 1' and 'Day 2' to be actual dates or days of the
-week.
-
-For larger changes, a blank template for a 4-day workshop
-(useful for online teaching for instance) can be found in
-`_includes/custom-schedule.html`. Add the times, and what
-you will be teaching to this file. You may also want to add
-rows to the table if you wish to break down the schedule
-further. To use this custom schedule here, replace the block
-of code below the Schedule `<h2>` header below with
-`{% include custom-schedule.html %}`.
-{% endcomment %}
-
-<h2 id="schedule">Schedule Group 1</h2>
-
-{% include custom-schedule.html %}
-
-<h2 id="schedule">Schedule Group 2</h2>
-
-{% include custom-schedule2.html %}
-
-<hr/>
 
 ## Recording
 
@@ -372,66 +420,23 @@ or streaming online on Vimeo at:
 <p><a href="https://vimeo.com/546669878">A Practical Exploration of Biotic Interaction Data Management and Information Retrieval through TPT and GloBI</a> from <a href="https://vimeo.com/idigbio">iDigBio</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 {% endcomment %}
 
-{% comment %}
-SETUP
 
-Delete irrelevant sections from the setup instructions.  Each
-section is inside a 'div' without any classes to make the beginning
-and end easier to find.
 
-This is the other place where people frequently make mistakes, so
-please preview your site before committing, and make sure to run
-'tools/check' as well.
-{% endcomment %}
 
-<h2 id="setup">Setup</h2>
+## Disclaimer
 
-<p>
-  To participate in a
-  {% if site.carpentry == "swc" %}
-  Software Carpentry
-  {% elsif site.carpentry == "dc" %}
-  Data Carpentry
-  {% elsif site.carpentry == "lc" %}
-  Library Carpentry
-  {% endif %}
-  workshop,
-  you will need access to software as described below.
-  In addition, you will need an up-to-date web browser.
-</p>
-<p>
-  We maintain a list of common issues that occur during installation as a reference for instructors
-  that may be useful on the
-  <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
-</p>
+Note that this is not (yet) an official Carpentries workshop, but we are working towards becoming one.
 
 {% comment %}
-For online workshops, the section below provides:
-- installation instructions for the Zoom client
-- recommendations for setting up Learners' workspace so they can follow along
-  the instructions and the videoconferencing
+AUDIENCE
 
-If you do not use Zoom for your online workshop, edit the file
-`_includes/install_instructions/videoconferencing.html`
-to include the relevant installation instrucctions.
+Explain who your audience is.  (In particular, tell readers if the
+workshop is only open to people from a particular institution.
 {% endcomment %}
-{% if online != "false" %}
-{% include install_instructions/videoconferencing.html %}
-{% endif %}
-
-{% comment %}
-These are the installation instructions for the tools used
-during the workshop.
-{% endcomment %}
-
 {% if site.carpentry == "swc" %}
-{% include swc/setup.html %}
+{% include swc/who.html %}
 {% elsif site.carpentry == "dc" %}
-{% include dc/setup.html %}
+{% include dc/who.html %}
 {% elsif site.carpentry == "lc" %}
-{% include lc/setup.html %}
-{% elsif site.carpentry == "pilot" %}
-Please check the "Setup" page of
-[the lesson site]({{ site.lesson_site }}) for instructions to follow
-to obtain the software and data you will need to follow the lesson.
+{% include lc/who.html %}
 {% endif %}
