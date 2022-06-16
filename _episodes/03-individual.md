@@ -1,7 +1,7 @@
 ---
 title: "Individual Data Transcriptions Worksheet activity"
 teaching: 
-exercises: 10 minutes
+exercises: 10
 questions:
 - "How do I transcribe this?"
 - "How do I intrepret the verbatim data?"
@@ -36,11 +36,6 @@ keypoints:
 > * [Specimen 6](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Specimen%20transcription%20%2306.pdf) 
 > * [Specimen 7](https://raw.githubusercontent.com/globalbioticinteractions/ecm-workshop/gh-pages/fig/Specimen%20transcription%20%2307.jpg)
 
-### Specimen Images
----------------------------------
-> There are 7 different specimen label images with association data to transcribe. 
-
-
 
 ### Specimen Images
 ---------------------------------
@@ -48,13 +43,13 @@ keypoints:
 
 > Pick the worksheet format above best for you and transcribe the association data into the worksheet. 
 
-> 
 
 > ## `Specimen 1: Transcribe assocation data from label image`
------
+>
 > Fill in all columns of the worksheet as appropriate. 
-<img src="https://i.imgur.com/cAT7uPr.jpg" height="500" align="middle"  />
-
+> 
+> <img src="https://i.imgur.com/cAT7uPr.jpg" height="500" align="middle"  />
+>
 {: .challenge}
 
 {% comment %}
@@ -79,4 +74,14 @@ SELECT interactionTypeName, count(interactionTypeName) FROM interactions group b
 .exit
 ~~~
 {% endcomment %}
+
+## Next Up: Small Group Data Transcriptions
+
+<p class="text-center">
+  <a href="https://www.globalbioticinteractions.org/ecm-workshop/04-small-group/index.html">
+    <button type="button" class="btn btn-info"> Small Group Data Transcriptions (Worksheet Activity) </button>
+  </a>
+</p>
+<hr/>
+
 
