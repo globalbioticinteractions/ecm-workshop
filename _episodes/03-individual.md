@@ -40,7 +40,6 @@ keypoints:
 ### Specimen Images
 ---------------------------------
 > There are 7 different specimen label images with association data to transcribe. 
-
 > Pick the worksheet format above best for you and transcribe the association data into the worksheet. 
 
 
@@ -48,9 +47,59 @@ keypoints:
 >
 > Fill in all columns of the worksheet as appropriate. 
 > 
-> <img src="https://i.imgur.com/cAT7uPr.jpg" height="500" align="middle"  />
+> <img src="https://i.imgur.com/cAT7uPr.jpg" height="400" align="middle"  />
 >
 {: .challenge}
+
+> ## `Specimen 2: Transcribe assocation data from label image`
+>
+> Fill in all columns of the worksheet as appropriate. 
+> 
+> <img src="https://i.imgur.com/u3RbMP6.jpg" height="400" align="middle"  />
+>
+{: .challenge}
+
+> ## `Specimen 3: Transcribe assocation data from label image`
+>
+> Fill in all columns of the worksheet as appropriate. 
+> 
+> <img src="https://i.imgur.com/aPST1Sj.jpg" height="400" align="middle"  />
+>
+{: .challenge}
+
+> ## `Specimen 4: Transcribe assocation data from label image`
+>
+> Fill in all columns of the worksheet as appropriate. 
+> 
+> <img src="https://i.imgur.com/H7DkDqY.jpg" height="400" align="middle"  />
+>
+{: .challenge}
+
+> ## `Specimen 5: Transcribe assocation data from label image`
+>
+> Fill in all columns of the worksheet as appropriate. 
+> 
+> <img src="https://i.imgur.com/iWKnAX1.jpg" height="400" align="middle"  />
+>
+{: .challenge}
+
+> ## `Specimen 6: Transcribe assocation data from label image`
+>
+> Fill in all columns of the worksheet as appropriate. 
+> 
+> <img src="https://i.imgur.com/TVnNaWJ.jpg" height="400" align="middle"  />
+>
+{: .challenge}
+
+> ## `Specimen 7: Transcribe assocation data from label image`
+>
+> Fill in all columns of the worksheet as appropriate. 
+> 
+> <img src="https://i.imgur.com/aKCknj8.jpg" height="400" align="middle"  />
+>
+{: .challenge}
+
+
 
 {% comment %}
 > ## `Import into a sqlite database`
