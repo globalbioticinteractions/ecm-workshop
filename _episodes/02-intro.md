@@ -51,8 +51,8 @@ keypoints:
   * [Word document(.docx)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/List%20of%20Common%20Interaction%20Terms.docx?raw=true)
   * [PDF version (.pdf)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/List%20of%20Common%20Interaction%20Terms.docx.pdf)
   * [Google Doc (online viewing)](https://docs.google.com/document/d/1yyweyl3tsZtrdT-oaGNvsrKZNa3rwS-B/edit?usp=sharing&ouid=118261277763146510870&rtpof=true&sd=true)
-* [Transcription Images]():
-  * [sp.1](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Specimen%20transcription%20%2301.pdf) 
+* [Transcription Images all on next episode page](https://www.globalbioticinteractions.org/ecm-workshop/03-individual/index.html) or individually:
+  * [sp.1](https://i.imgur.com/cAT7uPr.jpg) 
   * [sp.2](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Specimen%20transcription%20%2302.pdf)
   * [sp.3](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Specimen%20transcription%20%2303.pdf) 
   * [sp.4](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Specimen%20transcription%20%2304.pdf) 
@@ -72,7 +72,7 @@ keypoints:
 -----
 
 Commonly used Interaction Terms and Definitions:
-<img src="https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/List%20of%20Common%20Interaction%20Terms.png" height="400" align="middle"  />
+<img src="https://i.imgur.com/cb3S8fD.png" height="400" align="middle"  />
 (available here: [PDF version (.pdf)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/List%20of%20Common%20Interaction%20Terms.docx.pdf))
 
 Worksheet columns and definitions:
