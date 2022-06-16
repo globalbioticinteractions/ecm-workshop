@@ -10,8 +10,8 @@ objectives:
 - "Think about what common association term you would use"
 - "Think about how the interaction could be interpreted differently and if there may be a better term"
 keypoints:
-- "There is a lot of interaction data available and shell is one helpful tool to reduce the size of the dataset."
-- "Sharing code helps everyone."
+- "Association data on specimen labels can be highly variable"
+- "Matching data to availble terms can be confusing or interpreted differently"
 
 ---
 
