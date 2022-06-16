@@ -40,13 +40,17 @@ keypoints:
 -----
 
 * Individual transcription Worksheet (choose the best format for you): 
-  * [Excel sheet (.xlsx)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/1-%20Individual%20Transcription%20Interactions%20Worksheet.xlsx)
+  * [Excel sheet (.xlsx)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/1-%20Individual%20Transcription%20Interactions%20Worksheet.xlsx?raw=true)
   * [Comma delimited (.csv)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/1-%20Individual%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
   * [Google Spreadsheet (make copy or download)](https://docs.google.com/spreadsheets/d/1Avs_gVdz7Dg8KK4AsUzLTed9Lx3bz8grdxfq6ocqJlI/edit?usp=sharing)
 * Group Transcription Worksheet (choose the best format for you): 
-  * [Excel sheet (.xlsx)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/2-%20Group%20Transcription%20Interactions%20Worksheet.xlsx)
+  * [Excel sheet (.xlsx)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/2-%20Group%20Transcription%20Interactions%20Worksheet.xlsx?raw=true)
   * [Comma delimited (.csv)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/2-%20Group%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv) 
   * [Google Spreadsheet (make copy or download)](https://docs.google.com/spreadsheets/d/1G263sbgU2Z0UKMzRBGiP5H-mcD_84kl7B9Kfv99pBa8/edit?usp=sharing)
+* Commonly used Interaction Terms
+  * [Word document(.docx)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/List%20of%20Common%20Interaction%20Terms.docx?raw=true)
+  * [PDF version (.pdf)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/List%20of%20Common%20Interaction%20Terms.docx.pdf)
+  * [Google Doc (online viewing)](https://docs.google.com/document/d/1yyweyl3tsZtrdT-oaGNvsrKZNa3rwS-B/edit?usp=sharing&ouid=118261277763146510870&rtpof=true&sd=true)
 * [Transcription Images]():
   * [sp.1]() 
   * [sp.2]()
@@ -64,6 +68,23 @@ keypoints:
 <img src="https://github.com/globalbioticinteractions/interaction-data-workshop/raw/gh-pages/fig/interaction-data.png" height="800" align="middle"  />
 {% endcomment %}
 
+### Terms and Definitions
+-----
+
+Commonly used Interaction Terms and Definitions:
+<img src="https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/List%20of%20Common%20Interaction%20Terms.docx.pdf" height="800" align="middle"  />
+(available here: [PDF version (.pdf)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/List%20of%20Common%20Interaction%20Terms.docx.pdf))
+
+Worksheet columns and definitions:
+1. Verbatim Interaction Text (Interaction as on label without interpretation)
+2. Specimen Taxon name
+3. Human derived/interpreted interaction: Use examples from handout or come up with your own!
+4. Target Common Name, Target Taxon Name, Specimen Event Date, Target Sex, Target Body Part, Target Life Stage
+5. Additional Properties, or notes about interaction
+6. Do you have a new interaction? Please define it for us
+
+
+
 ### Example 1.
 -----
 
@@ -72,7 +93,7 @@ keypoints:
 <img src="https://i.imgur.com/2GmCUIo.png" width="2000" align="middle"  /> 
 Worksheet with examples (multiple formats available, you only need one):
 
-* [xlsx file download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet.xlsx)
+* [xlsx file download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet.xlsx?raw=true)
 * [csv download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
 * [Google Sheets](https://docs.google.com/spreadsheets/d/1Lmmn7a1F95EgF1hMInTpa6Sm3_ejMl4D1DlJgAQ8V0M/edit?usp=sharing) (download or make a copy)
 
@@ -94,7 +115,7 @@ Worksheet with examples (multiple formats available, you only need one):
 <img src="https://i.imgur.com/CvJUciJ.png" width="2000" align="middle"  /> 
 Worksheet with examples (multiple formats available, you only need one, same sheet as above):
 
-* [xlsx file download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet.xlsx)
+* [xlsx file download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet.xlsx?raw=true)
 * [csv download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
 * [Google Sheets](https://docs.google.com/spreadsheets/d/1Lmmn7a1F95EgF1hMInTpa6Sm3_ejMl4D1DlJgAQ8V0M/edit?usp=sharing) (download or make a copy)
 
