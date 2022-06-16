@@ -51,12 +51,16 @@ TODO: Add links... Screenshot?
 												
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfWe2BGVRMVRm_7jtDY9QbiJWBN1jSGIEsPBJt5aLC5q0IdwcBdcenW7CsEXFq9l-huuB1FyE27NuI/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-| TaskID | Task Name | Explanations and Comments | Resources |
-|--------|-----------|---------------------------|-----------|
-|T1|Select/prioritize material for immediate digitization.|Day-to-day decisions about which specimens/trays/drawers/vial racks/slide boxes to digitize should follow global policies and decisions made in M2A.|Institutional policy, project guidelines, active research criteria, etc.|
-|T2|Note specimen damage or conservation issues that need immediate attention.|Route to conservation workflow as necessary, based on institutional policy or curatorial practices.|Institutionally specific curation guidelines.|
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfWe2BGVRMVRm_7jtDY9QbiJWBN1jSGIEsPBJt5aLC5q0IdwcBdcenW7CsEXFq9l-huuB1FyE27NuI/pub?gid=0&single=true&output=pdf"></iframe>
 
-{google_docs}https://docs.google.com/spreadsheets/d/e/2PACX-1vTfWe2BGVRMVRm_7jtDY9QbiJWBN1jSGIEsPBJt5aLC5q0IdwcBdcenW7CsEXFq9l-huuB1FyE27NuI/pubhtml{/google_docs}
+
+
+
+| Image number | Verbatim Interaction Text (Interaction as on label without interpretation)| Human derived/ interpreted interaction | Specimen Taxon name |
+|--------------|---------------------------------------------------------------------------|----------------------------------------|---------------------|
+|example 1|Lone Star Tick pulled from Susan ~6am 6/25/07 probably attached herself 6/24/07|parasite of|Amblyomma americanum|
+
+
 
 -----
 
