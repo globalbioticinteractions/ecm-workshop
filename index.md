@@ -368,8 +368,12 @@ Big thanks to Kat Sullivan (MPM/TPT) for providing excellent workshop/lesson con
 
 A special thanks to the thousands of (citizen) scientists and their institutions for openly sharing their [datasets](https://globalbioticinteractions.org/sources). Also, thanks to the thousands of software engineers for providing high quality open source software on which GloBI and this Carpentries lessions is built . 
 
-<a href="https://parasitetracker.org"><img src="fig/parasite_tracker_logo.png" class="inline-image" style="height: 5em;"></a> <a href="https://nsf.gov"><img src="fig/nsf_logo.png" class="inline-image" style="height: 6em;"></a> <a href="https://www.idigbio.org/"><img src="fig/idigbio_logo.png" class="inline-image" style="height: 4em;"></a> <a href="https://globalbioticinteractions.org"><img src="fig/globi_logo.png" class="inline-image" style="height: 5em;"></a>
+<a href="https://parasitetracker.org"><img src="fig/parasite_tracker_logo.png" class="inline-image" style="height: 5em;"></a> <a href="https://nsf.gov"><img src="fig/nsf_logo.png" class="inline-image" style="height: 6em;"></a> <a href="https://globalbioticinteractions.org"><img src="fig/globi_logo.png" class="inline-image" style="height: 5em;"></a>
 
+{% comment %}
+I don't think iDigBio really did anything for the workshop... It can be added back in though. 
+<a href="https://www.idigbio.org/"><img src="fig/idigbio_logo.png" class="inline-image" style="height: 4em;"></a> 
+{% endcomment %}
 
 <hr/>
 
