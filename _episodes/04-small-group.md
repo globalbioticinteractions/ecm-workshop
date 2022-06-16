@@ -10,11 +10,11 @@ objectives:
 - "Discuss with your group what association terms were derived for each specimen"
 - "Make sure everyone has a chance to be heard"
 - "Come to a consensus association term that should be used for each specimen"
-- "Appoint group spokes person for sharing your group's results with the larger workshop group"
+- "Appoint group spokesperson for sharing your group's results with the larger workshop group"
 keypoints:
-- "Web tools are for exploring indexed data and providing feedback"
-- "Web tools facilitate communication within biodiversity data community"
-- "Web tools are dynamic and subject to change"
+- "There may be different interpretations about association data"
+- "It can sometimes be difficult to agree"
+- "Sometimes new terms or fields need to be created to adequately address the data available"
 ---
 
 ## Objectives
@@ -23,19 +23,19 @@ The goal of this exercise is to take the transcriptions and association data int
 
 > ## `Exercise 1. Group worksheet & discussion` 
 >
-> Download a copy of the group activity spreadsheet to fill in, or open and make a copy you can edit in Google Drive or Google Sheets. Appoint one person to record/take notes for the group.
+> 1. Download a copy of the group activity spreadsheet to fill in, or open and make a copy you can edit in Google Drive or Google Sheets. Appoint one person to record/take notes for the group.
 > * [Excel sheet (.xlsx)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/2-%20Group%20Transcription%20Interactions%20Worksheet.xlsx?raw=true)
 >  * [Comma delimited (.csv)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/2-%20Group%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
 >  * [Google Spreadsheet (make copy or download)](https://bit.ly/ECMworksheet2)
 > 
-> Go over what everyone filled out in each association field and discuss any differences in interpretations or new terms invented. 
+> 2. Go over what everyone filled out in each association field and discuss any differences in interpretations or new terms invented. 
 > * Do this for each specimen
 > * Make sure everyone has a chance to share, voice their opion, and ask questions
 > 
-> Try to come to a consensus on what association terms should be used and what new terms or fields would be useful additions. 
+> 3. Try to come to a consensus on what association terms should be used and what new terms or fields would be useful additions. 
 > * The group recorder should write down agreed upon terms on worksheet or make note that the group could not come to an agreement
 > 
-> Appoint someone to be the group spokesperson for the larger group discussion (next portion of this workshop).
+> 4. Appoint someone to be the group spokesperson for the larger group discussion (next portion of this workshop).
 > * This can be a different person from the person recording/note taking
 > * The answers your group comes up with (or unresolved disagreements) will be discussed with the larger group for the last 30 mintues of the workshop
 > 
@@ -46,11 +46,13 @@ The goal of this exercise is to take the transcriptions and association data int
 
 <p class="text-center">
   <a href="https://www.globalbioticinteractions.org/ecm-workshop/05-report-n-discuss/index.html">
-    <button type="button" class="btn btn-info"> Small Group Data Transcriptions (Worksheet Activity) </button>
+    <button type="button" class="btn btn-info"> Report & Whole Group Discussion </button>
   </a>
 </p>
 <hr/>
 
+
+<a href="https://parasitetracker.org"><img src="fig/parasite_tracker_logo.png" class="inline-image" style="height: 5em;"></a> <a href="https://nsf.gov"><img src="fig/nsf_logo.png" class="inline-image" style="height: 6em;"></a> <a href="https://globalbioticinteractions.org"><img src="fig/globi_logo.png" class="inline-image" style="height: 5em;"></a>
 
 
 
