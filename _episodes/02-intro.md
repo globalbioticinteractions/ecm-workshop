@@ -49,12 +49,21 @@ TODO: Add links... Screenshot?
 <img src="https://i.imgur.com/o5jFz1Z.jpg" height="800" align="middle"  /> 
 
 												
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfWe2BGVRMVRm_7jtDY9QbiJWBN1jSGIEsPBJt5aLC5q0IdwcBdcenW7CsEXFq9l-huuB1FyE27NuI/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
+| TaskID | Task Name | Explanations and Comments | Resources |
+|--------|-----------|---------------------------|-----------|
+|T1|Select/prioritize material for immediate digitization.|Day-to-day decisions about which specimens/trays/drawers/vial racks/slide boxes to digitize should follow global policies and decisions made in M2A.|Institutional policy, project guidelines, active research criteria, etc.|
+|T2|Note specimen damage or conservation issues that need immediate attention.|Route to conservation workflow as necessary, based on institutional policy or curatorial practices.|Institutionally specific curation guidelines.|
+
+{google_docs}https://docs.google.com/spreadsheets/d/e/2PACX-1vTfWe2BGVRMVRm_7jtDY9QbiJWBN1jSGIEsPBJt5aLC5q0IdwcBdcenW7CsEXFq9l-huuB1FyE27NuI/pubhtml{/google_docs}
+
+-----
 
 ### Example 2.
 -----
 
-<img src="https://i.imgur.com/G2SW2IZ.jpg" height="800" align="middle"  /> 
+<img src="https://i.imgur.com/G2SW2IZ.jpg" height="400" align="middle"  /> 
 
 
 ## Next Up: Individual Specimen Data Transcriptions
