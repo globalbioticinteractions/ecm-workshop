@@ -39,10 +39,25 @@ keypoints:
 ### Where to find materials for this activity
 -----
 
-* Individual transcription Worksheet (choose the best format for you): [Excel sheet (.xlsx)](); [Comma delimited (.csv)](); [Google Spreadsheet (make copy or download)]()
-* Group Transcription Worksheet (choose the best format for you): [Excel sheet (.xlsx)](); [Comma delimited (.csv)](); [Google Spreadsheet (make copy or download)]()
-* [Transcription Images]() ([sp.1](); [sp.2](); [sp.3](); [sp.4](); [sp.5](); [sp.6](); [sp.7]())
-* Example images ([ex.1](); [ex. 2]())
+* Individual transcription Worksheet (choose the best format for you): 
+  * [Excel sheet (.xlsx)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/1-%20Individual%20Transcription%20Interactions%20Worksheet.xlsx)
+  * [Comma delimited (.csv)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/1-%20Individual%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
+  * [Google Spreadsheet (make copy or download)](https://docs.google.com/spreadsheets/d/1Avs_gVdz7Dg8KK4AsUzLTed9Lx3bz8grdxfq6ocqJlI/edit?usp=sharing)
+* Group Transcription Worksheet (choose the best format for you): 
+  * [Excel sheet (.xlsx)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/2-%20Group%20Transcription%20Interactions%20Worksheet.xlsx)
+  * [Comma delimited (.csv)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/2-%20Group%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv) 
+  * [Google Spreadsheet (make copy or download)](https://docs.google.com/spreadsheets/d/1G263sbgU2Z0UKMzRBGiP5H-mcD_84kl7B9Kfv99pBa8/edit?usp=sharing)
+* [Transcription Images]():
+  * [sp.1]() 
+  * [sp.2]()
+  * [sp.3]() 
+  * [sp.4]() 
+  * [sp.5]() 
+  * [sp.6]() 
+  * [sp.7]()
+* Example images: 
+  * [ex.1](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Example1.JPEG) 
+  * [ex. 2](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Example2.jpg)
 
 
 {% comment %}
@@ -54,7 +69,7 @@ keypoints:
 
 <img src="https://i.imgur.com/o5jFz1Z.jpg" height="800" align="middle"  /> 
 
-<img src="https://i.imgur.com/2GmCUIo.png" width="1500" align="middle"  /> 
+<img src="https://i.imgur.com/2GmCUIo.png" width="2000" align="middle"  /> 
 Worksheet with examples (multiple formats available, you only need one):
 [xlsx file download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet.xlsx)
 [csv download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
@@ -64,8 +79,7 @@ Worksheet with examples (multiple formats available, you only need one):
 
 | Image number | Verbatim Interaction Text (Interaction as on label without interpretation) | Human derived/ interpreted interaction | Specimen Taxon name | add | add | add | add | add | add | 
 |--------------|---------------------------------------------------------------------------|----------------------------------------|---------------------|-----|----|-----|-----|-----|-----|
-|example 1|Lone Star Tick pulled from Susan ~6am 6/25/07 probably attached herself 6/24/07|parasite of|Amblyomma americanum| add |
-|add | add | add | add | add | 
+|example 1|Lone Star Tick pulled from Susan ~6am 6/25/07 probably attached herself 6/24/07|parasite of|Amblyomma americanum| add |add | add | add | add | add | 
 
 
 
@@ -76,7 +90,7 @@ Worksheet with examples (multiple formats available, you only need one):
 
 <img src="https://i.imgur.com/G2SW2IZ.jpg" height="400" align="middle"  /> 
 
-<img src="https://i.imgur.com/CvJUciJ.png" width="1500" align="middle"  /> 
+<img src="https://i.imgur.com/CvJUciJ.png" width="2000" align="middle"  /> 
 Worksheet with examples (multiple formats available, you only need one, same sheet as above):
 [xlsx file download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet.xlsx)
 [csv download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
@@ -86,10 +100,8 @@ Worksheet with examples (multiple formats available, you only need one, same she
 
 | Image number | Verbatim Interaction Text (Interaction as on label without interpretation) | Human derived/ interpreted interaction | Specimen Taxon name | add | add | add | add | add | add | 
 |--------------|---------------------------------------------------------------------------|----------------------------------------|---------------------|-----|----|-----|-----|-----|-----|
-|example 1|Lone Star Tick pulled from Susan ~6am 6/25/07 probably attached herself 6/24/07|parasite of|Amblyomma americanum| add |
-|add | add | add | add | add | 
-|example 2|Lone Star Tick pulled from Susan ~6am 6/25/07 probably attached herself 6/24/07|parasite of|Amblyomma americanum| add |
-|add | add | add | add | add | 
+|example 1|Lone Star Tick pulled from Susan ~6am 6/25/07 probably attached herself 6/24/07|parasite of|Amblyomma americanum| add|add | add | add | add | add | 
+|example 2|Lone Star Tick pulled from Susan ~6am 6/25/07 probably attached herself 6/24/07|parasite of|Amblyomma americanum| add |add | add | add | add | add | 
 
 
 ## Next Up: Individual Specimen Data Transcriptions
