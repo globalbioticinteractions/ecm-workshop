@@ -1,6 +1,6 @@
 ---
-title: "Exploring Ixodes (tick) Records By Pointing and Clicking"
-teaching: 15
+title: "Small Group Data Transcriptions Worksheet Activity"
+teaching: 0
 exercises: 15
 questions:
 - "How can I explore indexed Ixodes interaction records?"
