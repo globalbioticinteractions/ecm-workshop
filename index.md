@@ -160,7 +160,8 @@ please preview your site before committing, and make sure to run
   Library Carpentry
   {% endif %}
   workshop,
-  you will need internet access and the ability to download spreadsheet files (.xlsx or .csv) or to use spreadsheet files in [Google Docs/Sheets](https://www.google.com/sheets/about/).
+  you will need internet access and the ability to download spreadsheet files (.xlsx or .csv) or to use spreadsheet files in <a href = "https://www.google.com/sheets/about/">Google Doc/Sheets</a>.
+
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
@@ -275,6 +276,7 @@ ACCESSIBILITY
 Modify the block below if there are any barriers to accessibility or
 special instructions.
 {% endcomment %}
+
 <p id="accessibility">
   <strong>Accessibility:</strong>
 {% if online == "false" %}
@@ -305,6 +307,7 @@ CONTACT EMAIL ADDRESS
 
 Display the contact email address set in the configuration file.
 {% endcomment %}
+
 <p id="contact">
   <strong>Contact:</strong>
   Please email
@@ -366,7 +369,7 @@ A special thanks to the thousands of (citizen) scientists and their institutions
 <a href="https://parasitetracker.org"><img src="fig/parasite_tracker_logo.png" class="inline-image" style="height: 5em;"></a> <a href="https://nsf.gov"><img src="fig/nsf_logo.png" class="inline-image" style="height: 6em;"></a> <a href="https://www.idigbio.org/"><img src="fig/idigbio_logo.png" class="inline-image" style="height: 4em;"></a> <a href="https://globalbioticinteractions.org"><img src="fig/globi_logo.png" class="inline-image" style="height: 5em;"></a>
 
 
-
+<hr/>
 
 {% comment%}
 CODE OF CONDUCT
@@ -424,7 +427,7 @@ or streaming online on Vimeo at:
 <p><a href="https://vimeo.com/546669878">A Practical Exploration of Biotic Interaction Data Management and Information Retrieval through TPT and GloBI</a> from <a href="https://vimeo.com/idigbio">iDigBio</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 {% endcomment %}
 
-
+<hr/>
 
 
 ## Disclaimer
