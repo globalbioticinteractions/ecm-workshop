@@ -39,27 +39,31 @@ keypoints:
 ### Where to find materials for this activity
 -----
 
-TODO: Add links... Screenshot? 
-<img src="https://github.com/globalbioticinteractions/interaction-data-workshop/raw/gh-pages/fig/interaction-data.png" height="800" align="middle"  />
+* Individual transcription Worksheet (choose the best format for you): [Excel sheet (.xlsx)](); [Comma delimited (.csv)](); [Google Spreadsheet (make copy or download)]()
+* Group Transcription Worksheet (choose the best format for you): [Excel sheet (.xlsx)](); [Comma delimited (.csv)](); [Google Spreadsheet (make copy or download)]()
+* [Transcription Images]() ([sp.1](); [sp.2](); [sp.3](); [sp.4](); [sp.5](); [sp.6](); [sp.7]())
+* Example images ([ex.1](); [ex. 2]())
 
+
+{% comment %}
+<img src="https://github.com/globalbioticinteractions/interaction-data-workshop/raw/gh-pages/fig/interaction-data.png" height="800" align="middle"  />
+{% endcomment %}
 
 ### Example 1.
 -----
 
 <img src="https://i.imgur.com/o5jFz1Z.jpg" height="800" align="middle"  /> 
 
-<img src="https://i.imgur.com/2GmCUIo.png" width="1200" align="middle"  /> [xlsx file download]() or [csv download]()
+<img src="https://i.imgur.com/2GmCUIo.png" width="1500" align="middle"  /> 
+Worksheet with examples (multiple formats available, you only need one):
+[xlsx file download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet.xlsx)
+[csv download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
+[Google Sheets](https://docs.google.com/spreadsheets/d/1Lmmn7a1F95EgF1hMInTpa6Sm3_ejMl4D1DlJgAQ8V0M/edit?usp=sharing) (download or make a copy)
 
 
 
-
-
-
-| Image number | Verbatim Interaction Text (Interaction as on label without interpretation) | Human derived/ interpreted interaction | Specimen Taxon name | add | 
-|--------------|---------------------------------------------------------------------------|----------------------------------------|---------------------|-----|
-|add | add | add | add | add | 
-|----|-----|-----|-----|-----|
-
+| Image number | Verbatim Interaction Text (Interaction as on label without interpretation) | Human derived/ interpreted interaction | Specimen Taxon name | add | add | add | add | add | add | 
+|--------------|---------------------------------------------------------------------------|----------------------------------------|---------------------|-----|----|-----|-----|-----|-----|
 |example 1|Lone Star Tick pulled from Susan ~6am 6/25/07 probably attached herself 6/24/07|parasite of|Amblyomma americanum| add |
 |add | add | add | add | add | 
 
@@ -71,6 +75,21 @@ TODO: Add links... Screenshot?
 -----
 
 <img src="https://i.imgur.com/G2SW2IZ.jpg" height="400" align="middle"  /> 
+
+<img src="https://i.imgur.com/CvJUciJ.png" width="1500" align="middle"  /> 
+Worksheet with examples (multiple formats available, you only need one, same sheet as above):
+[xlsx file download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet.xlsx)
+[csv download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
+[Google Sheets](https://docs.google.com/spreadsheets/d/1Lmmn7a1F95EgF1hMInTpa6Sm3_ejMl4D1DlJgAQ8V0M/edit?usp=sharing) (download or make a copy)
+
+
+
+| Image number | Verbatim Interaction Text (Interaction as on label without interpretation) | Human derived/ interpreted interaction | Specimen Taxon name | add | add | add | add | add | add | 
+|--------------|---------------------------------------------------------------------------|----------------------------------------|---------------------|-----|----|-----|-----|-----|-----|
+|example 1|Lone Star Tick pulled from Susan ~6am 6/25/07 probably attached herself 6/24/07|parasite of|Amblyomma americanum| add |
+|add | add | add | add | add | 
+|example 2|Lone Star Tick pulled from Susan ~6am 6/25/07 probably attached herself 6/24/07|parasite of|Amblyomma americanum| add |
+|add | add | add | add | add | 
 
 
 ## Next Up: Individual Specimen Data Transcriptions
