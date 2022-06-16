@@ -52,7 +52,7 @@ The goal of this exercise is to take the transcriptions and association data int
 <hr/>
 
 
-<a href="https://parasitetracker.org"><img src="fig/parasite_tracker_logo.png" class="inline-image" style="height: 5em;"></a> <a href="https://nsf.gov"><img src="fig/nsf_logo.png" class="inline-image" style="height: 6em;"></a> <a href="https://globalbioticinteractions.org"><img src="fig/globi_logo.png" class="inline-image" style="height: 5em;"></a>
+<a href="https://parasitetracker.org"><img src="https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/parasite_tracker_logo.png" class="inline-image" style="height: 5em;"></a> <a href="https://nsf.gov"><img src="https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/nsf_logo.png" class="inline-image" style="height: 6em;"></a> <a href="https://globalbioticinteractions.org"><img src="https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/globi_logo.png" class="inline-image" style="height: 5em;"></a>
 
 
 
