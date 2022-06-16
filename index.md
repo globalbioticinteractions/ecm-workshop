@@ -104,7 +104,7 @@ This workshop is open to anyone interested in biotic or species interaction data
 
 The proposed outcome of this workshop is to gain a better understanding of biotic association data, how it can be interpreted, and how it may be used in the future. We will work together through a series of exploratory data exercises. No programming experience is required, and you will use your own device to download data and create Google Sheets if you are attending virtually. If you are attending in-person, physical images and worksheets will be handed out. Everyone will contribute during this workshop. 
 
-</hr>
+<hr/>
 
 {% comment %}
 SCHEDULE
