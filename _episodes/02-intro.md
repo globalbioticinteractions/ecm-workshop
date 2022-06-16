@@ -71,16 +71,17 @@ keypoints:
 
 <img src="https://i.imgur.com/2GmCUIo.png" width="2000" align="middle"  /> 
 Worksheet with examples (multiple formats available, you only need one):
-[xlsx file download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet.xlsx)
-[csv download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
-[Google Sheets](https://docs.google.com/spreadsheets/d/1Lmmn7a1F95EgF1hMInTpa6Sm3_ejMl4D1DlJgAQ8V0M/edit?usp=sharing) (download or make a copy)
+
+* [xlsx file download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet.xlsx)
+* [csv download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
+* [Google Sheets](https://docs.google.com/spreadsheets/d/1Lmmn7a1F95EgF1hMInTpa6Sm3_ejMl4D1DlJgAQ8V0M/edit?usp=sharing) (download or make a copy)
 
 
-
+{% comment %}
 | Image number | Verbatim Interaction Text (Interaction as on label without interpretation) | Human derived/ interpreted interaction | Specimen Taxon name | add | add | add | add | add | add | 
 |--------------|---------------------------------------------------------------------------|----------------------------------------|---------------------|-----|----|-----|-----|-----|-----|
 |example 1|Lone Star Tick pulled from Susan ~6am 6/25/07 probably attached herself 6/24/07|parasite of|Amblyomma americanum| add |add | add | add | add | add | 
-
+{% endcomment %}
 
 
 -----
@@ -92,22 +93,27 @@ Worksheet with examples (multiple formats available, you only need one):
 
 <img src="https://i.imgur.com/CvJUciJ.png" width="2000" align="middle"  /> 
 Worksheet with examples (multiple formats available, you only need one, same sheet as above):
-[xlsx file download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet.xlsx)
-[csv download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
-[Google Sheets](https://docs.google.com/spreadsheets/d/1Lmmn7a1F95EgF1hMInTpa6Sm3_ejMl4D1DlJgAQ8V0M/edit?usp=sharing) (download or make a copy)
 
+* [xlsx file download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet.xlsx)
+* [csv download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
+* [Google Sheets](https://docs.google.com/spreadsheets/d/1Lmmn7a1F95EgF1hMInTpa6Sm3_ejMl4D1DlJgAQ8V0M/edit?usp=sharing) (download or make a copy)
 
+{% comment %}
 
 | Image number | Verbatim Interaction Text (Interaction as on label without interpretation) | Human derived/ interpreted interaction | Specimen Taxon name | add | add | add | add | add | add | 
 |--------------|---------------------------------------------------------------------------|----------------------------------------|---------------------|-----|----|-----|-----|-----|-----|
 |example 1|Lone Star Tick pulled from Susan ~6am 6/25/07 probably attached herself 6/24/07|parasite of|Amblyomma americanum| add|add | add | add | add | add | 
 |example 2|Lone Star Tick pulled from Susan ~6am 6/25/07 probably attached herself 6/24/07|parasite of|Amblyomma americanum| add |add | add | add | add | add | 
-
+{% endcomment %}
 
 ## Next Up: Individual Specimen Data Transcriptions
 
-➡️ [Individual Data Transcriptions (Worksheet Activity)](../03-individual). 
-
+<p class="text-center">
+  <a href="https://www.globalbioticinteractions.org/ecm-workshop/03-individual/index.html">
+    <button type="button" class="btn btn-info"> Individual Data Transcriptions (Worksheet Activity) </button>
+  </a>
+</p>
+<hr/>
 
 
 
