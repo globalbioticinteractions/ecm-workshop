@@ -13,7 +13,7 @@ humandate: "22 June 2022"    # human-readable dates for the workshop (e.g., "Feb
 humantime: "2-4p Mountain Time"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2022-06-22      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-06-22        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Erika Tucker", "Jorrit Poelen", "Katja Seltmann"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Erika Tucker", "Jorrit Poelen", "Katja Seltmann", "Kathryn Sullivan", "Jennifer Zaspel"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: [ "you!" ]
 
 # ["helper one", "helper two"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
