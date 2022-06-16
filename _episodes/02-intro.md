@@ -52,13 +52,13 @@ keypoints:
   * [PDF version (.pdf)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/List%20of%20Common%20Interaction%20Terms.docx.pdf)
   * [Google Doc (online viewing)](https://docs.google.com/document/d/1yyweyl3tsZtrdT-oaGNvsrKZNa3rwS-B/edit?usp=sharing&ouid=118261277763146510870&rtpof=true&sd=true)
 * [Transcription Images]():
-  * [sp.1]() 
-  * [sp.2]()
-  * [sp.3]() 
-  * [sp.4]() 
-  * [sp.5]() 
-  * [sp.6]() 
-  * [sp.7]()
+  * [sp.1](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Specimen%20transcription%20%2301.pdf) 
+  * [sp.2](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Specimen%20transcription%20%2302.pdf)
+  * [sp.3](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Specimen%20transcription%20%2303.pdf) 
+  * [sp.4](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Specimen%20transcription%20%2304.pdf) 
+  * [sp.5](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Specimen%20transcription%20%2305.pdf) 
+  * [sp.6](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Specimen%20transcription%20%2306.pdf) 
+  * [sp.7](https://raw.githubusercontent.com/globalbioticinteractions/ecm-workshop/gh-pages/fig/Specimen%20transcription%20%2307.jpg)
 * Example images: 
   * [ex.1](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Example1.JPEG) 
   * [ex. 2](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Example2.jpg)
@@ -72,7 +72,7 @@ keypoints:
 -----
 
 Commonly used Interaction Terms and Definitions:
-<img src="https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/List%20of%20Common%20Interaction%20Terms.docx.pdf" height="800" align="middle"  />
+<img src="https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/List%20of%20Common%20Interaction%20Terms.png" height="400" align="middle"  />
 (available here: [PDF version (.pdf)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/List%20of%20Common%20Interaction%20Terms.docx.pdf))
 
 Worksheet columns and definitions:
