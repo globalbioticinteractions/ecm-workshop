@@ -48,16 +48,18 @@ TODO: Add links... Screenshot?
 
 <img src="https://i.imgur.com/o5jFz1Z.jpg" height="800" align="middle"  /> 
 
+<img src="https://i.imgur.com/2GmCUIo.png" width="800" align="middle"  /> 
+
+
 												
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfWe2BGVRMVRm_7jtDY9QbiJWBN1jSGIEsPBJt5aLC5q0IdwcBdcenW7CsEXFq9l-huuB1FyE27NuI/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfWe2BGVRMVRm_7jtDY9QbiJWBN1jSGIEsPBJt5aLC5q0IdwcBdcenW7CsEXFq9l-huuB1FyE27NuI/pub?gid=0&single=true&output=pdf"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfWe2BGVRMVRm_7jtDY9QbiJWBN1jSGIEsPBJt5aLC5q0IdwcBdcenW7CsEXFq9l-huuB1FyE27NuI/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false;width=800"></iframe>
 
 
 
 
-| Image number | Verbatim Interaction Text (Interaction as on label without interpretation)| Human derived/ interpreted interaction | Specimen Taxon name |
-|--------------|---------------------------------------------------------------------------|----------------------------------------|---------------------|
+| Image number | Verbatim Interaction Text (Interaction as on label without interpretation)| Human derived/ interpreted interaction | Specimen Taxon name | add | add | add | add |
+|--------------|---------------------------------------------------------------------------|----------------------------------------|---------------------|-----|-----|
+----|-----|
 |example 1|Lone Star Tick pulled from Susan ~6am 6/25/07 probably attached herself 6/24/07|parasite of|Amblyomma americanum|
 
 
