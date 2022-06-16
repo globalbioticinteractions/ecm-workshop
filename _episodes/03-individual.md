@@ -47,7 +47,7 @@ keypoints:
 >
 > Fill in all columns of the worksheet as appropriate. 
 > 
-> <img src="https://i.imgur.com/cAT7uPr.jpg" height="400" align="middle"  />
+> <img src="https://i.imgur.com/cAT7uPr.jpg" width="800" align="middle"  />
 >
 {: .challenge}
 
@@ -55,7 +55,7 @@ keypoints:
 >
 > Fill in all columns of the worksheet as appropriate. 
 > 
-> <img src="https://i.imgur.com/u3RbMP6.jpg" height="400" align="middle"  />
+> <img src="https://i.imgur.com/u3RbMP6.jpg" width="800" align="middle"  />
 >
 {: .challenge}
 
@@ -63,7 +63,7 @@ keypoints:
 >
 > Fill in all columns of the worksheet as appropriate. 
 > 
-> <img src="https://i.imgur.com/aPST1Sj.jpg" height="400" align="middle"  />
+> <img src="https://i.imgur.com/aPST1Sj.jpg" height="600" align="middle"  />
 >
 {: .challenge}
 
@@ -71,7 +71,7 @@ keypoints:
 >
 > Fill in all columns of the worksheet as appropriate. 
 > 
-> <img src="https://i.imgur.com/H7DkDqY.jpg" height="400" align="middle"  />
+> <img src="https://i.imgur.com/H7DkDqY.jpg" width="800" align="middle"  />
 >
 {: .challenge}
 
@@ -79,7 +79,7 @@ keypoints:
 >
 > Fill in all columns of the worksheet as appropriate. 
 > 
-> <img src="https://i.imgur.com/iWKnAX1.jpg" height="400" align="middle"  />
+> <img src="https://i.imgur.com/iWKnAX1.jpg" width="800" align="middle"  />
 >
 {: .challenge}
 
@@ -87,7 +87,7 @@ keypoints:
 >
 > Fill in all columns of the worksheet as appropriate. 
 > 
-> <img src="https://i.imgur.com/TVnNaWJ.jpg" height="400" align="middle"  />
+> <img src="https://i.imgur.com/TVnNaWJ.jpg" width="800" align="middle"  />
 >
 {: .challenge}
 
@@ -95,7 +95,7 @@ keypoints:
 >
 > Fill in all columns of the worksheet as appropriate. 
 > 
-> <img src="https://i.imgur.com/aKCknj8.jpg" height="400" align="middle"  />
+> <img src="https://i.imgur.com/aKCknj8.jpg" width="800" align="middle"  />
 >
 {: .challenge}
 
