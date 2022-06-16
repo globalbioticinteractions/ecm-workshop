@@ -200,17 +200,6 @@ Please check the "Setup" page of
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
 
-## Acknowledgements
-
-This workshop is supported through the <img src="fig/nsf_logo.png" class="inline-image"> [National Science Foundation](https://nsf.gov) award "Towards a Sustainable Management of Insect Collections in the U.S. through the Entomological Collections Management Workshop," Award number [DBI:1640919](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1640919) Additional support is provided by the <img src="fig/parasite_tracker_logo.png" class="inline-image"> [Terrestrial Parasite Tracker](https://parasitetracker.org) project through the <img src="fig/nsf_logo.png" class="inline-image"> [National Science Foundation](https://nsf.gov) award "Collaborative Research: Digitization TCN: Digitizing collections to trace parasite-host associations and predict the spread of vector-borne disease," Award numbers [DBI:1901932](https://nsf.gov/awardsearch/showAward?AWD_ID=1901932&HistoricalAwards=false) and [DBI:1901926](https://nsf.gov/awardsearch/showAward?AWD_ID=1901926&HistoricalAwards=false). 
-
-Big thanks to Kat Sullivan (MPM/TPT) for providing excellent workshop/lesson content and templates, and to all the <img src="fig/globi_logo.png" class="inline-image">[GloBI partners](https://globalbioticinteractions.org/about#partners) for their support.
-
-A special thanks to the thousands of (citizen) scientists and their institutions for openly sharing their [datasets](https://globalbioticinteractions.org/sources). Also, thanks to the thousands of software engineers for providing high quality open source software on which GloBI and this Carpentries lessions is built . 
-
-<a href="https://parasitetracker.org"><img src="fig/parasite_tracker_logo.png" class="inline-image" style="height: 5em;"></a> <a href="https://nsf.gov"><img src="fig/nsf_logo.png" class="inline-image" style="height: 6em;"></a> <a href="https://www.idigbio.org/"><img src="fig/idigbio_logo.png" class="inline-image" style="height: 4em;"></a> <a href="https://globalbioticinteractions.org"><img src="fig/globi_logo.png" class="inline-image" style="height: 5em;"></a>
-
-
 {% comment %}
 LOCATION
 
@@ -297,9 +286,9 @@ special instructions.
   <li>Accessible restrooms are available.</li>
 </ul>
 <p>
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
+  Digital materials will be provided in advance of the workshop and
+  large-print handouts are available for in-person attendies. If additional help is needed, please notify the
+  organizers in advance.  If we can do something to help make learning easier for
   you (e.g. sign-language interpreters, lactation facilities) please
   get in touch (using contact details below) and we will
   attempt to provide them.
@@ -365,9 +354,24 @@ Edit the text to match who can attend the workshop. For instance:
 
 <hr/>
 
+
+<h2 id="Acknowledgements">Acknowledgements</h2>
+
+This workshop is supported through the <img src="fig/nsf_logo.png" class="inline-image"> [National Science Foundation](https://nsf.gov) award "Towards a Sustainable Management of Insect Collections in the U.S. through the Entomological Collections Management Workshop," Award number [DBI:1640919](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1640919) Additional support is provided by the <img src="fig/parasite_tracker_logo.png" class="inline-image"> [Terrestrial Parasite Tracker](https://parasitetracker.org) project through the <img src="fig/nsf_logo.png" class="inline-image"> [National Science Foundation](https://nsf.gov) award "Collaborative Research: Digitization TCN: Digitizing collections to trace parasite-host associations and predict the spread of vector-borne disease," Award numbers [DBI:1901932](https://nsf.gov/awardsearch/showAward?AWD_ID=1901932&HistoricalAwards=false) and [DBI:1901926](https://nsf.gov/awardsearch/showAward?AWD_ID=1901926&HistoricalAwards=false). 
+
+Big thanks to Kat Sullivan (MPM/TPT) for providing excellent workshop/lesson content and templates, and to all the <img src="fig/globi_logo.png" class="inline-image">[GloBI partners](https://globalbioticinteractions.org/about#partners) for their support.
+
+A special thanks to the thousands of (citizen) scientists and their institutions for openly sharing their [datasets](https://globalbioticinteractions.org/sources). Also, thanks to the thousands of software engineers for providing high quality open source software on which GloBI and this Carpentries lessions is built . 
+
+<a href="https://parasitetracker.org"><img src="fig/parasite_tracker_logo.png" class="inline-image" style="height: 5em;"></a> <a href="https://nsf.gov"><img src="fig/nsf_logo.png" class="inline-image" style="height: 6em;"></a> <a href="https://www.idigbio.org/"><img src="fig/idigbio_logo.png" class="inline-image" style="height: 4em;"></a> <a href="https://globalbioticinteractions.org"><img src="fig/globi_logo.png" class="inline-image" style="height: 5em;"></a>
+
+
+
+
 {% comment%}
 CODE OF CONDUCT
 {% endcomment %}
+
 <h2 id="code-of-conduct">Code of Conduct</h2>
 
 <p>
