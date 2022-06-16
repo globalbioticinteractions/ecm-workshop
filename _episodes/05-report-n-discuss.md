@@ -1,7 +1,7 @@
 ---
-title: "Working with Data Sources"
-teaching: 10
-exercises: 10
+title: "Reports & Whole Group Discussion"
+teaching: 0
+exercises: 30
 questions:
 - "How does GloBI discover interaction data?"
 - "How does GloBI integrate interaction data?"
