@@ -3,78 +3,55 @@ title: "Small Group Data Transcriptions Worksheet Activity"
 teaching: 0
 exercises: 15
 questions:
-- "How can I explore indexed Ixodes interaction records?"
-- "When should I use GloBI's webtools?"
-- "How can I help point out suspicious, or missing, data?"
-- "How can I make suggestions?"
+- "Does everyone agree on the association terms for each specimen?"
+- "Why or why not?"
+- "Are there additional terms or fields that should be available?"
 objectives:
-- "Familiarize with existing web tools"
-- "Load sample Ixodes interaction csv datafiles into a spreadsheet"
-- "Articulate limitations of Web APIs"
-- "Locate the species interaction data sources"
+- "Discuss with your group what association terms were derived for each specimen"
+- "Make sure everyone has a chance to be heard"
+- "Come to a consensus association term that should be used for each specimen"
+- "Appoint group spokes person for sharing your group's results with the larger workshop group"
 keypoints:
 - "Web tools are for exploring indexed data and providing feedback"
 - "Web tools facilitate communication within biodiversity data community"
 - "Web tools are dynamic and subject to change"
 ---
 
-{% include episode_gettingstarted.md %}
+## Objectives
 
-Global Biotic Interactions offers help to explore available species interaction datasets using basic web tools. These webtools help to answer questions like: "Which organisms do Ixodes interact with?", "Which datasets support describe Ixodes interactions?", and "How can I suggest improvements or point out suspicious data?"
+The goal of this exercise is to take the transcriptions and association data interpretations from your individual worksheets and discuss the results with your group to see how interpretations of interaction data can vary between transcribers. Group should discuss and try to come to an agreement for each specimen, record agreed upon terms (or new terms/categories needed) on group worksheet, and appoint spokesperson to share group results with whole class (next last portion of this workshop).
 
-## Interaction Search 
-
-The web page at [https://globalbioticinteractions.org](https://globalbioticinteractions.org) helps search for specific interactions by (taxonomic) name, interaction type (e.g., eats, parasite of, pollinates), and data source. Similar to general purpose search engines, only a subset of matching results is shown, and more can be requested if desired. The results include a description of the interacting taxa as well as the authority and data source that is said to support (or refute!) the interaction claim. 
-
-> ## `Exercise 1. Searching for interactions` 
+> ## `Exercise 1. Group worksheet & discussion` 
 >
-> Use GloBI's interaction search page to:
->
-> - first, search for interactions that involve ticks (Ixodes)
-> - then, narrow to search to include only tick (Ixodes) - mammal (Mammalia) interactions
-> - finally, select only *parasitic* tick-mammal interactions 
->
-> For each of the narrowing search, describe some of the data sources and references. What kind of references are they? Which data sources support the interaction claims?
+> Download a copy of the group activity spreadsheet to fill in, or open and make a copy you can edit in Google Drive or Google Sheets. Appoint one person to record/take notes for the group.
+> * [Excel sheet (.xlsx)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/2-%20Group%20Transcription%20Interactions%20Worksheet.xlsx?raw=true)
+>  * [Comma delimited (.csv)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/2-%20Group%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
+>  * [Google Spreadsheet (make copy or download)](https://bit.ly/ECMworksheet2)
+> 
+> Go over what everyone filled out in each association field and discuss any differences in interpretations or new terms invented. 
+> * Do this for each specimen
+> * Make sure everyone has a chance to share, voice their opion, and ask questions
+> 
+> Try to come to a consensus on what association terms should be used and what new terms or fields would be useful additions. 
+> * The group recorder should write down agreed upon terms on worksheet or make note that the group could not come to an agreement
+> 
+> Appoint someone to be the group spokesperson for the larger group discussion (next portion of this workshop).
+> * This can be a different person from the person recording/note taking
+> * The answers your group comes up with (or unresolved disagreements) will be discussed with the larger group for the last 30 mintues of the workshop
 > 
 {: .challenge}
 
-## Context of Interaction Results
 
-Now that we've explored ways to select specific questions, let's have a closer look at the links embedded in the search results. One of the goals of the web search tool is to provide a minimal, easy to use, way to get a sense of the wealth of interaction data that is already openly available. 
+## Next Up: Report & Whole Group Discussion
 
-> ## `Exercise 2. A closer look at interaction search results` 
->
-> 1. Various icons and links appear in search results. Make screenshots of the some search result and describe what these icons and links do. 
->
-> 2. Various verbs (e.g., interacts with, parasite of) are used to categorize interactions. List a few of these verbs (aka interactions terms) and describe what you think they mean in your own words. Compare the description with the web resources the verbs link to. 
->
-> 3. Describe how you imagine your colleagues would use the species interaction search web tool. Discuss current limitations and improvement opportunities.
->
-{: .challenge}
-
-### Point-and-click Tool 2: Interaction Browser
-
-Another search tool, the interaction browser, can be found at [https://globalbioticinteractions.org/browse](https://globalbioticinteractions.org/browse). This tools uses network and bundle diagrams to help visualize a sample of the selected interaction data. Also, a geospatial constraints can be specified to select a specific area of interest. Finally, a sample csv file with supporting interaction data records can be downloaded for review. 
+<p class="text-center">
+  <a href="https://www.globalbioticinteractions.org/ecm-workshop/05-report-n-discuss/index.html">
+    <button type="button" class="btn btn-info"> Small Group Data Transcriptions (Worksheet Activity) </button>
+  </a>
+</p>
+<hr/>
 
 
-> ## `Exercise 3. A more visual exploration of interaction data` 
->
-> First, open the [GloBI Browser](https://globalbioticinteractions.org/browse). By default, interactions of the green turtle (_Chelonia mydas_) are shown. It should look something like:
-> <a href="https://globalbioticinteractions.org/browse"><img src="../fig/chelonia_mydas.png" style="width: 50%"></a>
->
-> Now, familiarize yourself with the four panels by clicking around and exploring their interactive features:
->   - Can you update the search criteria to only select tick (Ixodes) - mammal (Mammalia) interactions? 
->   - What happens when you select only North America in the geospatial selector? 
->   - How would you share your resulting diagram with others? 
->
->
-> Finally, click on the "download csv data sample" to download the related interactions.csv file. 
->
-> Open the interactions csv file in your favorite editor and describe each of the columns in your own words. Which columns need further explanation?
-> 
-> (Extra Credit) Make a list of all the distinct mammalian hosts and Ixodes names that were included in the csv sample. 
->
-{: .challenge}
 
 
 
