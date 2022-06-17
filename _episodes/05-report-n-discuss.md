@@ -15,7 +15,7 @@ keypoints:
 - "GloBI provides automated reviews of data sources"
 ---
 
-## Data Sources: GloBI's Building Blocks
+## Objectives
 
 Global Biotic Interactions ([https://globalbioticinteractions.org](https://globalbioticinteractions.org), GloBI) relies on existing species interaction datasets, or data sources. These data sources are regularly re-indexed by GloBI to include recent updates. So, rather than a data management system or repository, GloBI is more like a search engine that helps find biotic interaction data in openly available datasets.
 
@@ -40,6 +40,8 @@ A list of GloBI data sources can be found at [https://globalbioticinteractions.o
 > 
 {: .challenge}
 
+
+{% comment %}
 GloBI builds the search index in the following steps:
 
 1. **F**ind registered interaction data in Github and Zenodo. 
@@ -78,9 +80,20 @@ In this lesson episode, you've learned that GloBI is a search index that helps t
 
 Also, you found the list of GloBI data sources and discovered the search-by-datasource, review and configuration links.
 
-## Next Up: Reviewing the Reviews
+{% endcomment %}
 
-If you'd like to learn more about what a data review is, please jump to [Reviewing Interaction Records](../07-reviewing-interaction-records). 
+## Next Up: Sumbit your worksheets
 
-If you are specifically interested in how GloBI links to taxonomic names, please visit lesson episode [Reviewing Taxonomic Names](../06-reviewing-taxonomic-names).
+<p class="text-center">
+  <a href="https://www.globalbioticinteractions.org/ecm-workshop/06-submit-your-worksheets/index.html">
+    <button type="button" class="btn btn-info"> Submit your worksheets </button>
+  </a>
+</p>
+<hr/>
+
+
+
+<a href="https://parasitetracker.org"><img src="https://i.imgur.com/i7TNiA5.png" class="inline-image" style="height: 5em;"></a> <a href="https://nsf.gov"><img src="https://i.imgur.com/BdaQNEJ.png" class="inline-image" style="height: 6em;"></a> <a href="https://globalbioticinteractions.org"><img src="https://i.imgur.com/6LYylbe.png" class="inline-image" style="height: 5em;"></a>
+
+
 
