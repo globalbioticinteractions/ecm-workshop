@@ -10,7 +10,7 @@ language: "FIXME"     # lowercase two-letter ISO language code such as "fr" (see
 latitude: "45"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-1"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "22 June 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "2-4p Mountain Time"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "2-4p Mountain Standard Time"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2022-06-22      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-06-22        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Erika Tucker", "Jorrit Poelen", "Katja Seltmann", "Kathryn Sullivan", "Jennifer Zaspel"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
@@ -95,6 +95,10 @@ the pitch.
 {% endcomment %}
 
 This Carpentries workshop activity is part of the 4th offering of the Entomological Collections Management (ECM) Workshop. This hybrid model workshop activity will be held both in-person at Arizona State University (ASU) in Tempe, Arizona and virtually on June 22nd. The full ECM Workshop is from June 20-24, 2022 and is also following a hybrid model (on-site events begin the evening of the 19th) (see the [ECM Workshop site](https://ecnweb.net/workshop/)).
+
+** <u>**Important time zone note** **</u> The live work shop session is in Arizona. Most of **Arizona does _not_ follow daylight savings time**, they are on Mountain Standard Time (GMT-7) (not to be confused with Mountain Daylight time or Mountain Time which is the first thing that comes up on Google). This means, during June, participants on EDT (GMT-4) have a 3 hour different (Washington DC), CST (GMT-5) a 2 hour differnce (Chicago), MDT (GMT-6) a 1 hour difference (Denver), and PDT (GMT-7) is currently in the same time zone (Los Angeles). This will change in the fall when daylight saving time ends for most folks. For additional time zones please check out one of these free world time zone converters:
+* [Time and Date](https://www.timeanddate.com/worldclock/converter.html?iso=20220617T163000) (can add multiple times and places)
+* [24 Times Zones](https://24timezones.com/difference)
 
 Join Erika Tucker and Jorrit Poelen for an examination of specimen association data and terminology followed by discussion on interpretations and downsteam usage. 
 
