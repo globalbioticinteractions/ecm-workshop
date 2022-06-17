@@ -1,26 +1,29 @@
 ---
-title: "Data Sources: Taxonomic Name Review"
-teaching: 10
-exercises: 10
+title: "Submit Your Worksheets"
+teaching: 0
+exercises: 0
 questions:
-- "How does GloBI interpret taxonomic names?"
-- "How can I find taxonomic names that GloBI didn't understand?"
-- "Does GloBI use single taxonomic backbone?"
+- ""
+- ""
+- ""
 objectives:
-- "Understand how GloBI links provided names to existing taxonomic naming schemes"
-- "Know to where to go to find, and discuss, suspicious taxonomic names"
+- "Submit your worksheets"
+- ""
 keypoints:
-- "Taxonomic name linking facilitates discovery, review, and interpretation, of interaction records"
-- "GloBI uses a versioned taxonomic name map to map verbatim names into known taxonomic schemes"
-- "GloBI attempts to provide reasonable links using a controlled and iterative process" 
-- "GloBI taxonomic name linking process is likely imperfect and subjective"
+- ""
+- ""
+- "" 
+- ""
 ---
 
-{% include episode_gettingstarted.md %}
 
-## Goal
+## Thank you!
 
-The goal of this lesson is to understand how, and why, GloBI indexes and links taxonomic names. 
+Thank you for participating in this workshop! Hopefully this exercise sparked some interesting discussion. 
+
+Please email your worksheets to [Erika](mailto:emtuckerlab@gmail.com). We plan to compile the results and make them availble to those needing ideas on collecting and mapping assocation type data to database fields. 
+
+{% comment %}
 
 ## Why Link Taxonomic Names?
 
@@ -99,5 +102,8 @@ So, "no:match" names might include names that contain typos, but may also includ
 >
 {: .challenge}
 
+{% endcomment %}
 
+
+<a href="https://parasitetracker.org"><img src="https://i.imgur.com/i7TNiA5.png" class="inline-image" style="height: 5em;"></a> <a href="https://nsf.gov"><img src="https://i.imgur.com/BdaQNEJ.png" class="inline-image" style="height: 6em;"></a> <a href="https://globalbioticinteractions.org"><img src="https://i.imgur.com/6LYylbe.png" class="inline-image" style="height: 5em;"></a>
 
