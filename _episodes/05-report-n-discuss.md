@@ -3,43 +3,80 @@ title: "Reports & Whole Group Discussion"
 teaching: 0
 exercises: 30
 questions:
-- "How does GloBI discover interaction data?"
-- "How does GloBI integrate interaction data?"
-- "Is GloBI a data repository or a search index?"
+- "Did everyone agree on association terminology?"
+- "Do we need additional association terms or fields?"
+- "Other thoughts?"
 objectives:
-- "Understand where to find GloBI data sources"
-- "Understand where to find GloBI data reviews"
+- "Report your small group's finding to the whole group"
+- "Discuss different association terms and interpretations"
 keypoints:
-- "GloBI is built using existing data sources"
-- "Data sources are continously and automatically indexed by GloBI"
-- "GloBI provides automated reviews of data sources"
+- "Association data can be complicated"
+- "Association data may be interpreted differently"
+- "Data providers often think about data and terms differently that data users"
 ---
 
 ## Objectives
 
-Global Biotic Interactions ([https://globalbioticinteractions.org](https://globalbioticinteractions.org), GloBI) relies on existing species interaction datasets, or data sources. These data sources are regularly re-indexed by GloBI to include recent updates. So, rather than a data management system or repository, GloBI is more like a search engine that helps find biotic interaction data in openly available datasets.
-
-The kinds of data sources indexed by GloBI are pretty diverse: some datasets come from professionally managed natural history collections or specialized data portals, whereas others are manually transcribe interaction records from literature, or observation records provided by citizen scientists. 
+Each small group will summarize their discussion and share key points and conclusions with the whole group. Once each group has had a chance to share, the whole group will discuss similar and dissimilar findings between the different groups.
 
 A list of GloBI data sources can be found at [https://globalbioticinteractions.org/sources](https://globalbioticinteractions.org/sources). 
 
+{% comment %}
 <a href="https://globalbioticinteractions.org/sources"><img src="../fig/globi-sources.png" style="width: 50%"></a>
+{% endcomment %}
 
-> ## `Exercise 1: Find Data Sources`
-> Visit [https://globalbioticinteractions.org/sources](https://globalbioticinteractions.org/sources) and locate:
+> ## `Exercise 1: Report your group's findings`
+> 
+> Appoint a spokesperson to share your group's results.
+> 
+> What association terms did you group use or need to create for specimen 1?
+> * Did all of your group agree? Why or why not?
+> * Did you need to create a new association term or field?
+> 
+> What association terms did you group use or need to create for specimen 2?
+> * Did all of your group agree? Why or why not?
+> * Did you need to create a new association term or field?
+> 
+> What association terms did you group use or need to create for specimen 3?
+> * Did all of your group agree? Why or why not?
+> * Did you need to create a new association term or field?
 >
->  - the **USNM Ixodes Collection**,
->
->  - Seltmann's **Tick Interaction Database**, and 
->
->  - **iNaturalist** observation records. 
->
-> For each data source, click on the <img src="../fig/globi-badge.png" style="display: inline; height: 1.1em; margin: 0;"> badge to explore some of their indexed interactions. 
->
-> Describe one interaction for each data source in the collaborative notes.
+> What association terms did you group use or need to create for specimen 4?
+> * Did all of your group agree? Why or why not?
+> * Did you need to create a new association term or field?
+> 
+> What association terms did you group use or need to create for specimen 5?
+> * Did all of your group agree? Why or why not?
+> * Did you need to create a new association term or field?
+> 
+> What association terms did you group use or need to create for specimen 6?
+> * Did all of your group agree? Why or why not?
+> * Did you need to create a new association term or field?
+> 
+> What association terms did you group use or need to create for specimen 7?
+> * Did all of your group agree? Why or why not?
+> * Did you need to create a new association term or field?
 > 
 {: .challenge}
 
+> ## `Exercise 2: Whole group discussion`
+> 
+> Question to think about:
+>  * Do we need additional terms or fields in standard data collection methods/depositories?
+>  * How does being a data provider vs data user change how we interpret the terms used with association data?
+> 
+{: .challenge}
+
+> ## `Additional information`
+> A full list of different [association terms, definitions, and translation tables](https://www.globalbioticinteractions.org/parasitetracker/) compiled so far are available below:
+> > | Resource | Description |
+> > |----------|-------------|
+> > | [OBO Relations Ontology project page](http://obofoundry.org/ontology/ro.html) | OBO RO contains many kinds of terms, not just biotic associations terms |
+> > | {List of OBO RO Biotic Interaction Terms with definitions](https://github.com/globalbioticinteractions/nomer/blob/main/nomer/src/test/resources/org/globalbioticinteractions/nomer/match/ro.tsv) | a table of RO biotic interaction terms and their definitions (if available) |
+> > | [List of GloBI Supported Interaction Terms](https://github.com/globalbioticinteractions/globalbioticinteractions/blob/main/eol-globi-lib/src/main/resources/org/globalbioticinteractions/interaction_types_ro.csv) | subset of RO interactions terms that GloBI uses for indexing |
+> > | [Default Verbatim Terms Translation Table](https://github.com/globalbioticinteractions/globalbioticinteractions/blob/main/eol-globi-lib/src/main/resources/org/globalbioticinteractions/interaction_types_mapping.csv) | the translation table used by GloBI to maps verbatim interaction terms to supported interaction terms |
+> > | [Example of Custom Verbatim Terms Translation Table](https://github.com/globalbioticinteractions/inhs-insects/blob/main/interaction_types_mapping.csv) | if provided/needed, GloBI can use a custom mapping provided by a collection
+{: .callout}
 
 {% comment %}
 GloBI builds the search index in the following steps:
