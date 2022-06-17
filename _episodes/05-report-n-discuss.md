@@ -19,8 +19,6 @@ keypoints:
 
 Each small group will summarize their discussion and share key points and conclusions with the whole group. Once each group has had a chance to share, the whole group will discuss similar and dissimilar findings between the different groups.
 
-A list of GloBI data sources can be found at [https://globalbioticinteractions.org/sources](https://globalbioticinteractions.org/sources). 
-
 {% comment %}
 <a href="https://globalbioticinteractions.org/sources"><img src="../fig/globi-sources.png" style="width: 50%"></a>
 {% endcomment %}
@@ -57,17 +55,23 @@ A list of GloBI data sources can be found at [https://globalbioticinteractions.o
 > * Did all of your group agree? Why or why not?
 > * Did you need to create a new association term or field?
 > 
+>
 {: .challenge}
+
+
 
 > ## `Exercise 2: Whole group discussion`
 > 
 > Question to think about:
 >  * Do we need additional terms or fields in standard data collection methods/depositories?
 >  * How does being a data provider vs data user change how we interpret the terms used with association data?
-> 
+>  
+>
 {: .challenge}
 
-> ## `Additional information`
+
+
+> ## `Additional information for reference`
 > A full list of different [association terms, definitions, and translation tables](https://www.globalbioticinteractions.org/parasitetracker/) compiled so far are available below:
 > > | Resource | Description |
 > > |----------|-------------|
@@ -119,7 +123,7 @@ Also, you found the list of GloBI data sources and discovered the search-by-data
 
 {% endcomment %}
 
-## Next Up: Sumbit your worksheets
+## Next Up: Submit your worksheets
 
 <p class="text-center">
   <a href="https://www.globalbioticinteractions.org/ecm-workshop/06-submit-your-worksheets/index.html">
