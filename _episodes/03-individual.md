@@ -134,3 +134,6 @@ SELECT interactionTypeName, count(interactionTypeName) FROM interactions group b
 <hr/>
 
 
+<a href="https://parasitetracker.org"><img src="https://i.imgur.com/i7TNiA5.png" class="inline-image" style="height: 5em;"></a> <a href="https://nsf.gov"><img src="https://i.imgur.com/BdaQNEJ.png" class="inline-image" style="height: 6em;"></a> <a href="https://globalbioticinteractions.org"><img src="https://i.imgur.com/6LYylbe.png" class="inline-image" style="height: 5em;"></a>
+
+
