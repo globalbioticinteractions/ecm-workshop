@@ -4,6 +4,8 @@ teaching: 0
 exercises: 0
 objectives:
 - "Submit your worksheets"
+keypoints:
+- "Email copy of results to Erika"
 ---
 
 
