@@ -2,18 +2,8 @@
 title: "Submit Your Worksheets"
 teaching: 0
 exercises: 0
-questions:
-- ""
-- ""
-- ""
 objectives:
 - "Submit your worksheets"
-- ""
-keypoints:
-- ""
-- ""
-- "" 
-- ""
 ---
 
 
