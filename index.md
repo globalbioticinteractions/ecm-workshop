@@ -17,7 +17,7 @@ instructor: ["Erika Tucker", "Jorrit Poelen", "Katja Seltmann", "Kathryn Sulliva
 helper: [ "you!" ]
 
 # ["helper one", "helper two"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["seltmann@ccber.ucsb.edu","jhpoelen@jhpoelen.nl"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+email: ["seltmann@ccber.ucsb.edu","jhpoelen@jhpoelen.nl, "emtuckerlab@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
@@ -140,6 +140,16 @@ of code below the Schedule `<h2>` header below with
 
 {% include custom-schedule2.html %}
 
+<hr/>
+
+
+## Start the Workshop!
+
+<p class="text-center">
+  <a href="../04-small-group/index.html">
+    <button type="button" class="btn btn-info"> Start the workshop! </button>
+  </a>
+</p>
 <hr/>
 
 {% comment %}
@@ -372,7 +382,7 @@ Big thanks to Kat Sullivan (MPM/TPT) for providing excellent workshop/lesson con
 
 A special thanks to the thousands of (citizen) scientists and their institutions for openly sharing their [datasets](https://globalbioticinteractions.org/sources). Also, thanks to the thousands of software engineers for providing high quality open source software on which GloBI and this Carpentries lessions is built . 
 
-<a href="https://parasitetracker.org"><img src="fig/parasite_tracker_logo.png" class="inline-image" style="height: 5em;"></a> <a href="https://nsf.gov"><img src="fig/nsf_logo.png" class="inline-image" style="height: 6em;"></a> <a href="https://globalbioticinteractions.org"><img src="fig/globi_logo.png" class="inline-image" style="height: 5em;"></a> <a href=""><img src="https://i.imgur.com/CM28pMh.png" class="inline-image" style="height: 5em;"></a> <a href=""><img src="https://i.imgur.com/B2ydZA3.png" class="inline-image" style="height: 5em;"></a> 
+<a href="https://parasitetracker.org"><img src="fig/parasite_tracker_logo.png" class="inline-image" style="height: 5em;"></a> <a href="https://nsf.gov"><img src="fig/nsf_logo.png" class="inline-image" style="height: 6em;"></a> <a href="https://globalbioticinteractions.org"><img src="fig/globi_logo.png" class="inline-image" style="height: 5em;"></a> <a href="https://www.ccber.ucsb.edu/"><img src="https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/logo-UCSB2.png?raw=true" class="inline-image" style="height: 5em;"></a> <a href=""><img src="https://i.imgur.com/B2ydZA3.png" class="inline-image" style="height: 5em;"></a> <a href="https://ronininstitute.org/"><img src="https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/logo-ronin-institute2.jpg" class="inline-image" style="height: 5em;"></a> 
 
 
 {% comment %}
