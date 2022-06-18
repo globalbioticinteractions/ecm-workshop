@@ -42,6 +42,25 @@ The goal of this exercise is to take the transcriptions and association data int
 {: .challenge}
 
 
+### Word Cloud!
+---------------------------------
+One fun way to visualize results and find common terms is by creating a word cloud.
+
+> ## `Share your group's interaction terms!`
+> ➡️ Go to: [https://www.menti.com/92hpp2j5xj](https://www.menti.com/92hpp2j5xj)
+>   * Alternatively, go to [www.menti.com](https://www.menti.com/) and enter the code **8651 1750** (do not enter the 12 34 56 given below - this asks you about super heros - something for another time)
+>   
+> ➡️ Enter the different interaction terms you used for each specimen. 
+>
+> See the word cloud results in real time as everyone submits terms! 
+> 
+> <div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/5b6dc464e65d5ec0c6105c7f3c8d3a57/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+> 
+> Live results can also be viewed [here](https://www.mentimeter.com/app/presentation/5b6dc464e65d5ec0c6105c7f3c8d3a57).
+> 
+{: .callout}
+
+
 ## Next Up: Report & Whole Group Discussion
 
 <p class="text-center">
