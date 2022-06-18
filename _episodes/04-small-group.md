@@ -24,8 +24,8 @@ The goal of this exercise is to take the transcriptions and association data int
 > ## `Exercise 1. Group worksheet & discussion` 
 >
 > 1. Download a copy of the group activity spreadsheet to fill in, or open and make a copy you can edit in Google Drive or Google Sheets. Appoint one person to record/take notes for the group.
-> * [Excel sheet (.xlsx)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/2-%20Group%20Transcription%20Interactions%20Worksheet.xlsx?raw=true)
->  * [Comma delimited (.csv)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/2-%20Group%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
+> * [Excel sheet (.xlsx)](../files/2-%20Group%20Transcription%20Interactions%20Worksheet.xlsx)
+>  * [Comma delimited (.csv)](../files/2-%20Group%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
 >  * [Google Spreadsheet (make copy or download)](https://bit.ly/ECMworksheet2)
 > 
 > 2. Go over what everyone filled out in each association field and discuss any differences in interpretations or new terms invented. 

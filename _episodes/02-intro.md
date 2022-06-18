@@ -40,28 +40,28 @@ keypoints:
 -----
 
 * Individual transcription Worksheet (choose the best format for you): 
-  * [Excel sheet (.xlsx)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/1-%20Individual%20Transcription%20Interactions%20Worksheet.xlsx?raw=true)
-  * [Comma delimited (.csv)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/1-%20Individual%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
+  * [Excel sheet (.xlsx)](files/1-%20Individual%20Transcription%20Interactions%20Worksheet.xlsx)
+  * [Comma delimited (.csv)](files/1-%20Individual%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
   * [Google Spreadsheet (make copy or download)](https://docs.google.com/spreadsheets/d/1Avs_gVdz7Dg8KK4AsUzLTed9Lx3bz8grdxfq6ocqJlI/edit?usp=sharing)
 * Group Transcription Worksheet (choose the best format for you): 
-  * [Excel sheet (.xlsx)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/2-%20Group%20Transcription%20Interactions%20Worksheet.xlsx?raw=true)
-  * [Comma delimited (.csv)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/2-%20Group%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv) 
+  * [Excel sheet (.xlsx)](files/2-%20Group%20Transcription%20Interactions%20Worksheet.xlsx)
+  * [Comma delimited (.csv)](files/2-%20Group%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv) 
   * [Google Spreadsheet (make copy or download)](https://docs.google.com/spreadsheets/d/1G263sbgU2Z0UKMzRBGiP5H-mcD_84kl7B9Kfv99pBa8/edit?usp=sharing)
 * Commonly used Interaction Terms
-  * [Word document(.docx)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/List%20of%20Common%20Interaction%20Terms.docx?raw=true)
-  * [PDF version (.pdf)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/List%20of%20Common%20Interaction%20Terms.docx.pdf)
+  * [Word document(.docx)](files/List%20of%20Common%20Interaction%20Terms.docx)
+  * [PDF version (.pdf)](files/List%20of%20Common%20Interaction%20Terms.docx.pdf)
   * [Google Doc (online viewing)](https://docs.google.com/document/d/1yyweyl3tsZtrdT-oaGNvsrKZNa3rwS-B/edit?usp=sharing&ouid=118261277763146510870&rtpof=true&sd=true)
 * [Transcription Images all on next episode page](https://www.globalbioticinteractions.org/ecm-workshop/03-individual/index.html) or individually:
-  * [sp.1](https://i.imgur.com/cAT7uPr.jpg) 
-  * [sp.2](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Specimen%20transcription%20%2302.pdf)
-  * [sp.3](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Specimen%20transcription%20%2303.pdf) 
-  * [sp.4](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Specimen%20transcription%20%2304.pdf) 
-  * [sp.5](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Specimen%20transcription%20%2305.pdf) 
-  * [sp.6](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Specimen%20transcription%20%2306.pdf) 
-  * [sp.7](https://raw.githubusercontent.com/globalbioticinteractions/ecm-workshop/gh-pages/fig/Specimen%20transcription%20%2307.jpg)
+  * [sp.1](fig/Specimen_transcription_01.pdf) 
+  * [sp.2](fig/Specimen_transcription_02.pdf)
+  * [sp.3](fig/Specimen_transcription_03.pdf) 
+  * [sp.4](fig/Specimen_transcription_04.pdf) 
+  * [sp.5](fig/Specimen_transcription_05.pdf) 
+  * [sp.6](fig/Specimen_transcription_06.pdf) 
+  * [sp.7](fig/Specimen_transcription_07.jpg)
 * Example images: 
-  * [ex.1](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Example1.JPEG) 
-  * [ex. 2](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Example2.jpg)
+  * [ex.1](fig/Example1.JPEG) 
+  * [ex.2](fig/Example2.jpg)
 
 
 {% comment %}
@@ -73,7 +73,7 @@ keypoints:
 
 Commonly used Interaction Terms and Definitions:
 <img src="https://i.imgur.com/cb3S8fD.png" height="400" align="middle"  />
-(available here: [PDF version (.pdf)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/List%20of%20Common%20Interaction%20Terms.docx.pdf))
+(available here: [PDF version (.pdf)](files/List%20of%20Common%20Interaction%20Terms.docx.pdf))
 
 Worksheet columns and definitions:
 1. Verbatim Interaction Text (Interaction as on label without interpretation)
@@ -93,8 +93,8 @@ Worksheet columns and definitions:
 <img src="https://i.imgur.com/2GmCUIo.png" width="2000" align="middle"  /> 
 Worksheet with examples (multiple formats available, you only need one):
 
-* [xlsx file download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet.xlsx?raw=true)
-* [csv download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
+* [xlsx file download](files/0-Example%20Transcription%20Interactions%20Worksheet.xlsx?raw=true)
+* [csv download](files/0-Example%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
 * [Google Sheets](https://docs.google.com/spreadsheets/d/1Lmmn7a1F95EgF1hMInTpa6Sm3_ejMl4D1DlJgAQ8V0M/edit?usp=sharing) (download or make a copy)
 
 
@@ -115,8 +115,8 @@ Worksheet with examples (multiple formats available, you only need one):
 <img src="https://i.imgur.com/CvJUciJ.png" width="2000" align="middle"  /> 
 Worksheet with examples (multiple formats available, you only need one, same sheet as above):
 
-* [xlsx file download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet.xlsx?raw=true)
-* [csv download](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/0-Example%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
+* [xlsx file download](files/0-Example%20Transcription%20Interactions%20Worksheet.xlsx?raw=true)
+* [csv download](files/0-Example%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
 * [Google Sheets](https://docs.google.com/spreadsheets/d/1Lmmn7a1F95EgF1hMInTpa6Sm3_ejMl4D1DlJgAQ8V0M/edit?usp=sharing) (download or make a copy)
 
 {% comment %}

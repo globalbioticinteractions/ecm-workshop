@@ -23,18 +23,18 @@ keypoints:
 ### Getting started
 ---------------------------------
 > Download a copy of the activity spreadsheet to fill in, or open and make a copy you can edit in Google Drive or Google Sheets. 
-> * [Excel sheet (.xlsx)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/1-%20Individual%20Transcription%20Interactions%20Worksheet.xlsx?raw=true)
->  * [Comma delimited (.csv)](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/files/1-%20Individual%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
+> * [Excel sheet (.xlsx)](../files/1-%20Individual%20Transcription%20Interactions%20Worksheet.xlsx?raw=true)
+>  * [Comma delimited (.csv)](../files/1-%20Individual%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
 >  * [Google Spreadsheet (make copy or download)](https://docs.google.com/spreadsheets/d/1Avs_gVdz7Dg8KK4AsUzLTed9Lx3bz8grdxfq6ocqJlI/edit?usp=sharing)
 
 > Transcribe the association data from each of the 7 specimen labels provided below into your spreadsheet. You can also open the images up in separate windows or tabs if you prefer with these links:
-> * [Specimen 1](https://i.imgur.com/cAT7uPr.jpg) 
-> * [Specimen 2](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Specimen%20transcription%20%2302.pdf)
-> * [Specimen 3](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Specimen%20transcription%20%2303.pdf) 
-> * [Specimen 4](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Specimen%20transcription%20%2304.pdf) 
-> * [Specimen 5](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Specimen%20transcription%20%2305.pdf) 
-> * [Specimen 6](https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/Specimen%20transcription%20%2306.pdf) 
-> * [Specimen 7](https://raw.githubusercontent.com/globalbioticinteractions/ecm-workshop/gh-pages/fig/Specimen%20transcription%20%2307.jpg)
+> * [Specimen 1](../fig/Specimen_transcription_01.pdf) 
+> * [Specimen 2](../fig/Specimen_transcription_02.pdf)
+> * [Specimen 3](../fig/Specimen_transcription_03.pdf) 
+> * [Specimen 4](../fig/Specimen_transcription_04.pdf) 
+> * [Specimen 5](../fig/Specimen_transcription_05.pdf) 
+> * [Specimen 6](../fig/Specimen_transcription_06.pdf) 
+> * [Specimen 7](../fig/Specimen_transcription_07.jpg)
 
 
 ### Specimen Images
@@ -47,7 +47,7 @@ keypoints:
 >
 > Fill in all columns of the worksheet as appropriate. 
 > 
-> <img src="https://i.imgur.com/cAT7uPr.jpg" width="800" align="middle"  />
+> <img src="../fig/Specimen_transcription_01.pdf" width="800" align="middle"  />
 >
 {: .challenge}
 
@@ -55,7 +55,7 @@ keypoints:
 >
 > Fill in all columns of the worksheet as appropriate. 
 > 
-> <img src="https://i.imgur.com/u3RbMP6.jpg" width="800" align="middle"  />
+> <img src="../fig/Specimen_transcription_02.pdf" width="800" align="middle"  />
 >
 {: .challenge}
 
@@ -63,7 +63,7 @@ keypoints:
 >
 > Fill in all columns of the worksheet as appropriate. 
 > 
-> <img src="https://i.imgur.com/aPST1Sj.jpg" height="600" align="middle"  />
+> <img src="../fig/Specimen_transcription_03.pdf" height="600" align="middle"  />
 >
 {: .challenge}
 
@@ -71,7 +71,7 @@ keypoints:
 >
 > Fill in all columns of the worksheet as appropriate. 
 > 
-> <img src="https://i.imgur.com/H7DkDqY.jpg" width="800" align="middle"  />
+> <img src="../fig/Specimen_transcription_04.pdf" width="800" align="middle"  />
 >
 {: .challenge}
 
@@ -79,7 +79,7 @@ keypoints:
 >
 > Fill in all columns of the worksheet as appropriate. 
 > 
-> <img src="https://i.imgur.com/iWKnAX1.jpg" width="800" align="middle"  />
+> <img src="../fig/Specimen_transcription_05.pdf" width="800" align="middle"  />
 >
 {: .challenge}
 
@@ -87,7 +87,7 @@ keypoints:
 >
 > Fill in all columns of the worksheet as appropriate. 
 > 
-> <img src="https://i.imgur.com/TVnNaWJ.jpg" width="800" align="middle"  />
+> <img src="../fig/Specimen_transcription_06.pdf" width="800" align="middle"  />
 >
 {: .challenge}
 
@@ -95,7 +95,7 @@ keypoints:
 >
 > Fill in all columns of the worksheet as appropriate. 
 > 
-> <img src="https://i.imgur.com/aKCknj8.jpg" width="800" align="middle"  />
+> <img src="../fig/Specimen_transcription_07.pdf" width="800" align="middle"  />
 >
 {: .challenge}
 
