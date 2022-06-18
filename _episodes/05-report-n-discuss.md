@@ -70,6 +70,24 @@ Each small group will summarize their discussion and share key points and conclu
 {: .challenge}
 
 
+### Word Cloud!
+---------------------------------
+One fun way to visualize results and find common terms is by creating a word cloud.
+
+> ## `Share your group's interaction terms!`
+> ➡️ Go to: [https://www.menti.com/ko7drjtd2i](https://www.menti.com/ko7drjtd2i)
+>   * Alternatively, go to [www.menti.com](https://www.menti.com/) and enter the code **1661 7738**
+>   
+> ➡️ Enter the different interaction terms you used for each specimen. 
+>
+> See the word cloud results in real time as everyone submits terms! 
+> 
+> <div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/55c049c66ba9afc59bc8b593257510d4/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+> 
+> Live results can also be viewed [here](https://www.mentimeter.com/app/presentation/55c049c66ba9afc59bc8b593257510d4).
+> 
+{: .callout}
+
 
 > ## `Additional information for reference`
 > A full list of different [association terms, definitions, and translation tables](https://www.globalbioticinteractions.org/parasitetracker/) compiled so far are available below:
