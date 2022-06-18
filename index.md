@@ -110,6 +110,15 @@ The proposed outcome of this workshop is to gain a better understanding of bioti
 
 <hr/>
 
+## Start the Workshop!
+
+<p class="text-center">
+  <a href="../02-intro/index.html">
+    <button type="button" class="btn btn-info"> Start the workshop! </button>
+  </a>
+</p>
+<hr/>
+
 {% comment %}
 SCHEDULE
 
@@ -146,7 +155,7 @@ of code below the Schedule `<h2>` header below with
 ## Start the Workshop!
 
 <p class="text-center">
-  <a href="../04-small-group/index.html">
+  <a href="../02-intro/index.html">
     <button type="button" class="btn btn-info"> Start the workshop! </button>
   </a>
 </p>
@@ -378,11 +387,9 @@ Edit the text to match who can attend the workshop. For instance:
 
 This workshop is supported through the <img src="fig/nsf_logo.png" class="inline-image"> [National Science Foundation](https://nsf.gov) award "Towards a Sustainable Management of Insect Collections in the U.S. through the Entomological Collections Management Workshop," Award number [DBI:1640919](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1640919) Additional support is provided by the <img src="fig/parasite_tracker_logo.png" class="inline-image"> [Terrestrial Parasite Tracker](https://parasitetracker.org) project through the <img src="fig/nsf_logo.png" class="inline-image"> [National Science Foundation](https://nsf.gov) award "Collaborative Research: Digitization TCN: Digitizing collections to trace parasite-host associations and predict the spread of vector-borne disease," Award numbers [DBI:1901932](https://nsf.gov/awardsearch/showAward?AWD_ID=1901932&HistoricalAwards=false) and [DBI:1901926](https://nsf.gov/awardsearch/showAward?AWD_ID=1901926&HistoricalAwards=false). 
 
-Big thanks to Kat Sullivan (MPM/TPT) for providing excellent workshop/lesson content and templates, and to all the <img src="fig/globi_logo.png" class="inline-image">[GloBI partners](https://globalbioticinteractions.org/about#partners) for their support.
-
 A special thanks to the thousands of (citizen) scientists and their institutions for openly sharing their [datasets](https://globalbioticinteractions.org/sources). Also, thanks to the thousands of software engineers for providing high quality open source software on which GloBI and this Carpentries lessions is built . 
 
-<a href="https://parasitetracker.org"><img src="fig/parasite_tracker_logo.png" class="inline-image" style="height: 5em;"></a> <a href="https://nsf.gov"><img src="fig/nsf_logo.png" class="inline-image" style="height: 6em;"></a> <a href="https://globalbioticinteractions.org"><img src="fig/globi_logo.png" class="inline-image" style="height: 5em;"></a> <a href="https://www.ccber.ucsb.edu/"><img src="https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/logo-UCSB2.png?raw=true" class="inline-image" style="height: 5em;"></a> <a href=""><img src="https://i.imgur.com/B2ydZA3.png" class="inline-image" style="height: 5em;"></a> <a href="https://ronininstitute.org/"><img src="https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/logo-ronin-institute2.jpg" class="inline-image" style="height: 5em;"></a> 
+<a href="https://parasitetracker.org"><img src="fig/parasite_tracker_logo.png" class="inline-image" style="height: 5em;"></a> <a href="https://nsf.gov"><img src="fig/nsf_logo.png" class="inline-image" style="height: 6em;"></a> <a href="https://globalbioticinteractions.org"><img src="fig/globi_logo.png" class="inline-image" style="height: 5em;"></a> <a href="https://www.ccber.ucsb.edu/"><img src="https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/logo-UCSB2.png?raw=true" class="inline-image" style="height: 5em;"></a> <a href=""><img src="https://i.imgur.com/B2ydZA3.png" class="inline-image" style="height: 5em;"></a> <a href="https://ronininstitute.org/"><img src="https://i.imgur.com/ydNRnZh.jpg" class="inline-image" style="height: 5em;"></a> 
 
 
 {% comment %}
@@ -468,3 +475,14 @@ workshop is only open to people from a particular institution.
 {% elsif site.carpentry == "lc" %}
 {% include lc/who.html %}
 {% endif %}
+
+## Start the Workshop!
+
+<p class="text-center">
+  <a href="../02-intro/index.html">
+    <button type="button" class="btn btn-info"> Start the workshop! </button>
+  </a>
+</p>
+<hr/>
+
+
