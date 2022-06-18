@@ -22,7 +22,7 @@ keypoints:
 {% comment %}
 > Some of the different sources of data include natural history collection records, observations extracted from the literature, interaction and network datasets, observations from community science programs and other, larger aggregated datasets.
 
-<img src="../fig/data-sources.png" height="300" align="middle" />
+<img src="{{ site.baseurl }}/fig/data-sources.png" height="300" align="middle" />
 {% endcomment %}
 
 
@@ -65,14 +65,14 @@ keypoints:
 
 
 {% comment %}
-<img src="https://github.com/globalbioticinteractions/interaction-data-workshop/raw/gh-pages/fig/interaction-data.png" height="800" align="middle"  />
+<img src="{{ site.baseurl }}/fig/interaction-data.png" height="800" align="middle"  />
 {% endcomment %}
 
 ### Terms and Definitions
 -----
 
 Commonly used Interaction Terms and Definitions:
-<img src="https://i.imgur.com/cb3S8fD.png" height="400" align="middle"  />
+<img src="{{ site.baseurl }}/fig/List%20of%20Common%20Interaction%20Terms.png" height="400" align="middle"  />
 (available here: [PDF version (.pdf)](../files/List%20of%20Common%20Interaction%20Terms.docx.pdf))
 
 Worksheet columns and definitions:
@@ -88,9 +88,9 @@ Worksheet columns and definitions:
 ### Example 1.
 -----
 
-<img src="https://i.imgur.com/o5jFz1Z.jpg" height="800" align="middle"  /> 
+<img src="{{ site.baseurl }}/fig/Example1.JPEG" height="800" align="middle"  /> 
 
-<img src="https://i.imgur.com/2GmCUIo.png" width="2000" align="middle"  /> 
+<img src="{{ site.baseurl }}/fig/Example1-sheet.png" width="2000" align="middle"  /> 
 Worksheet with examples (multiple formats available, you only need one):
 
 * [xlsx file download](../files/0-Example%20Transcription%20Interactions%20Worksheet.xlsx)
@@ -110,9 +110,9 @@ Worksheet with examples (multiple formats available, you only need one):
 ### Example 2.
 -----
 
-<img src="https://i.imgur.com/G2SW2IZ.jpg" height="400" align="middle"  /> 
+<img src="{{ site.baseurl }}/fig/Example2.jpg" height="400" align="middle"  /> 
 
-<img src="https://i.imgur.com/CvJUciJ.png" width="2000" align="middle"  /> 
+<img src="{{ site.baseurl }}/fig/Example2-sheet.png" width="2000" align="middle"  /> 
 Worksheet with examples (multiple formats available, you only need one, same sheet as above):
 
 * [xlsx file download](../files/0-Example%20Transcription%20Interactions%20Worksheet.xlsx)
@@ -130,7 +130,7 @@ Worksheet with examples (multiple formats available, you only need one, same she
 ## Next Up: Individual Specimen Data Transcriptions
 
 <p class="text-center">
-  <a href="https://www.globalbioticinteractions.org/ecm-workshop/03-individual/index.html">
+  <a href="{{ site.baseurl }}/03-individual/index.html">
     <button type="button" class="btn btn-info"> Individual Data Transcriptions (Worksheet Activity) </button>
   </a>
 </p>

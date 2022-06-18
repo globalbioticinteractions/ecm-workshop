@@ -9,9 +9,9 @@ Most of **❗Arizona does _not_ follow daylight savings time❗**, they are on *
 * [Time and Date](https://www.timeanddate.com/worldclock/converter.html?iso=20220617T163000) (can add multiple times and places)
 * [24 Times Zones](https://24timezones.com/difference)
 
-<img src="https://i.imgur.com/IujpNOF.jpg" width="100%" align="middle"  />
+<img src="{{ site.baseurl }}/fig/World-map-with-time-zones.jpg" width="100%" align="middle"  />
 
 From [World Map Blank](https://worldmapblank.com/world-time-zone-map/)
 
 ----
-<a href="https://parasitetracker.org"><img src="fig/parasite_tracker_logo.png" class="inline-image" style="height: 5em;"></a> <a href="https://nsf.gov"><img src="fig/nsf_logo.png" class="inline-image" style="height: 6em;"></a> <a href="https://globalbioticinteractions.org"><img src="fig/globi_logo.png" class="inline-image" style="height: 5em;"></a> <a href="https://www.ccber.ucsb.edu/"><img src="https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/logo-UCSB2.png?raw=true" class="inline-image" style="height: 5em;"></a> <a href="https://www.mpm.edu/"><img src="https://i.imgur.com/B2ydZA3.png" class="inline-image" style="height: 5em;"></a> <a href=""><img src="https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/logo-ronin-institute.jpeg" class="inline-image" style="height: 5em;"></a> 
+{% include logos.html %}
