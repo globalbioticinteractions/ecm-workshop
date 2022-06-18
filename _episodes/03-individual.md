@@ -99,7 +99,23 @@ keypoints:
 >
 {: .challenge}
 
+### Word Cloud!
+---------------------------------
+One fun way to visualize results and find common terms is by creating a word cloud.
 
+> ## `Share your interaction terms`
+> ➡️ Go to: (https://www.menti.com/n3p72kte12](https://www.menti.com/n3p72kte12)
+>   * Alternatively, go to [www.menti.com](https://www.menti.com/) and enter the code **9959 2027**
+>   
+> ➡️ Enter the different interaction terms you used for each specimen. 
+>
+> See the word cloud results in real time as everyone submits terms! 
+> 
+> <div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/1d2447b55029b09b8b003341ba3ce933/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+> 
+> Live results can also be viewed [here](https://www.mentimeter.com/app/presentation/1d2447b55029b09b8b003341ba3ce933).
+> 
+{: .callout}
 
 {% comment %}
 > ## `Import into a sqlite database`
