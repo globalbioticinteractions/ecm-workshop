@@ -14,4 +14,3 @@ Most of **❗Arizona does _not_ follow daylight savings time❗**, they are on *
 From [World Map Blank](https://worldmapblank.com/world-time-zone-map/)
 
 ----
-{% include logos.html %}
