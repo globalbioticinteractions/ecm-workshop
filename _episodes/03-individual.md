@@ -104,7 +104,7 @@ keypoints:
 One fun way to visualize results and find common terms is by creating a word cloud.
 
 > ## `Share your interaction terms`
-> ➡️ Go to: (https://www.menti.com/n3p72kte12](https://www.menti.com/n3p72kte12)
+> ➡️ Go to: [https://www.menti.com/n3p72kte12](https://www.menti.com/n3p72kte12)
 >   * Alternatively, go to [www.menti.com](https://www.menti.com/) and enter the code **9959 2027**
 >   
 > ➡️ Enter the different interaction terms you used for each specimen. 
