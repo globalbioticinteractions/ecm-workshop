@@ -52,12 +52,12 @@ keypoints:
   * [PDF version (.pdf)](../files/List%20of%20Common%20Interaction%20Terms.docx.pdf)
   * [Google Doc (online viewing)](https://docs.google.com/document/d/1yyweyl3tsZtrdT-oaGNvsrKZNa3rwS-B/edit?usp=sharing&ouid=118261277763146510870&rtpof=true&sd=true)
 * [Transcription Images all on next episode page](https://www.globalbioticinteractions.org/ecm-workshop/03-individual/index.html) or individually:
-  * [sp.1](../fig/Specimen_transcription_01.pdf) 
-  * [sp.2](../fig/Specimen_transcription_02.pdf)
-  * [sp.3](../fig/Specimen_transcription_03.pdf) 
-  * [sp.4](../fig/Specimen_transcription_04.pdf) 
-  * [sp.5](../fig/Specimen_transcription_05.pdf) 
-  * [sp.6](../fig/Specimen_transcription_06.pdf) 
+  * [sp.1](../fig/Specimen_transcription_01.jpg) 
+  * [sp.2](../fig/Specimen_transcription_02.jpg)
+  * [sp.3](../fig/Specimen_transcription_03.jpg) 
+  * [sp.4](../fig/Specimen_transcription_04.jpg) 
+  * [sp.5](../fig/Specimen_transcription_05.jpg) 
+  * [sp.6](../fig/Specimen_transcription_06.jpg) 
   * [sp.7](../fig/Specimen_transcription_07.jpg)
 * Example images: 
   * [ex.1](../fig/Example1.JPEG) 

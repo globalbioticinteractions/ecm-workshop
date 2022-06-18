@@ -28,12 +28,12 @@ keypoints:
 >  * [Google Spreadsheet (make copy or download)](https://docs.google.com/spreadsheets/d/1Avs_gVdz7Dg8KK4AsUzLTed9Lx3bz8grdxfq6ocqJlI/edit?usp=sharing)
 
 > Transcribe the association data from each of the 7 specimen labels provided below into your spreadsheet. You can also open the images up in separate windows or tabs if you prefer with these links:
-> * [Specimen 1](../fig/Specimen_transcription_01.pdf) 
-> * [Specimen 2](../fig/Specimen_transcription_02.pdf)
-> * [Specimen 3](../fig/Specimen_transcription_03.pdf) 
-> * [Specimen 4](../fig/Specimen_transcription_04.pdf) 
-> * [Specimen 5](../fig/Specimen_transcription_05.pdf) 
-> * [Specimen 6](../fig/Specimen_transcription_06.pdf) 
+> * [Specimen 1](../fig/Specimen_transcription_01.jpg) 
+> * [Specimen 2](../fig/Specimen_transcription_02.jpg)
+> * [Specimen 3](../fig/Specimen_transcription_03.jpg) 
+> * [Specimen 4](../fig/Specimen_transcription_04.jpg) 
+> * [Specimen 5](../fig/Specimen_transcription_05.jpg) 
+> * [Specimen 6](../fig/Specimen_transcription_06.jpg) 
 > * [Specimen 7](../fig/Specimen_transcription_07.jpg)
 
 
@@ -47,7 +47,7 @@ keypoints:
 >
 > Fill in all columns of the worksheet as appropriate. 
 > 
-> <img src="../fig/Specimen_transcription_01.pdf" width="800" align="middle"  />
+> <img src="../fig/Specimen_transcription_01.jpg" width="800" align="middle"  />
 >
 {: .challenge}
 
@@ -55,7 +55,7 @@ keypoints:
 >
 > Fill in all columns of the worksheet as appropriate. 
 > 
-> <img src="../fig/Specimen_transcription_02.pdf" width="800" align="middle"  />
+> <img src="../fig/Specimen_transcription_02.jpg" width="800" align="middle"  />
 >
 {: .challenge}
 
@@ -63,7 +63,7 @@ keypoints:
 >
 > Fill in all columns of the worksheet as appropriate. 
 > 
-> <img src="../fig/Specimen_transcription_03.pdf" height="600" align="middle"  />
+> <img src="../fig/Specimen_transcription_03.jpg" height="600" align="middle"  />
 >
 {: .challenge}
 
@@ -71,7 +71,7 @@ keypoints:
 >
 > Fill in all columns of the worksheet as appropriate. 
 > 
-> <img src="../fig/Specimen_transcription_04.pdf" width="800" align="middle"  />
+> <img src="../fig/Specimen_transcription_04.jpg" width="800" align="middle"  />
 >
 {: .challenge}
 
@@ -79,7 +79,7 @@ keypoints:
 >
 > Fill in all columns of the worksheet as appropriate. 
 > 
-> <img src="../fig/Specimen_transcription_05.pdf" width="800" align="middle"  />
+> <img src="../fig/Specimen_transcription_05.jpg" width="800" align="middle"  />
 >
 {: .challenge}
 
@@ -87,7 +87,7 @@ keypoints:
 >
 > Fill in all columns of the worksheet as appropriate. 
 > 
-> <img src="../fig/Specimen_transcription_06.pdf" width="800" align="middle"  />
+> <img src="../fig/Specimen_transcription_06.jpg" width="800" align="middle"  />
 >
 {: .challenge}
 
@@ -95,7 +95,7 @@ keypoints:
 >
 > Fill in all columns of the worksheet as appropriate. 
 > 
-> <img src="../fig/Specimen_transcription_07.pdf" width="800" align="middle"  />
+> <img src="../fig/Specimen_transcription_07.jpg" width="800" align="middle"  />
 >
 {: .challenge}
 
@@ -127,7 +127,7 @@ SELECT interactionTypeName, count(interactionTypeName) FROM interactions group b
 ## Next Up: Small Group Data Transcriptions
 
 <p class="text-center">
-  <a href="https://www.globalbioticinteractions.org/ecm-workshop/04-small-group/index.html">
+  <a href="../04-small-group/index.html">
     <button type="button" class="btn btn-info"> Small Group Data Transcriptions (Worksheet Activity) </button>
   </a>
 </p>
