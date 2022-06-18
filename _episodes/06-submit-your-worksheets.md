@@ -95,7 +95,3 @@ So, "no:match" names might include names that contain typos, but may also includ
 {: .challenge}
 
 {% endcomment %}
-
-
-<a href="https://parasitetracker.org"><img src="fig/parasite_tracker_logo.png" class="inline-image" style="height: 5em;"></a> <a href="https://nsf.gov"><img src="fig/nsf_logo.png" class="inline-image" style="height: 6em;"></a> <a href="https://globalbioticinteractions.org"><img src="fig/globi_logo.png" class="inline-image" style="height: 5em;"></a> <a href="https://www.ccber.ucsb.edu/"><img src="https://github.com/globalbioticinteractions/ecm-workshop/blob/gh-pages/fig/logo-UCSB2.png?raw=true" class="inline-image" style="height: 5em;"></a> <a href=""><img src="https://i.imgur.com/B2ydZA3.png" class="inline-image" style="height: 5em;"></a> <a href="https://ronininstitute.org/"><img src="https://i.imgur.com/ydNRnZh.jpg" class="inline-image" style="height: 5em;"></a> 
-
