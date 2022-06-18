@@ -105,7 +105,7 @@ One fun way to visualize results and find common terms is by creating a word clo
 
 > ## `Share your interaction terms!`
 > ➡️ Go to: [https://www.menti.com/n3p72kte12](https://www.menti.com/n3p72kte12)
->   * Alternatively, go to [www.menti.com](https://www.menti.com/) and enter the code **9959 2027**
+>   * Alternatively, go to [www.menti.com](https://www.menti.com/) and enter the code **9959 2027** (do not enter the 12 34 56 given below - this asks you about super heros - something for another time)
 >   
 > ➡️ Enter the different interaction terms you used for each specimen. 
 >
