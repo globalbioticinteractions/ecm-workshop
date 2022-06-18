@@ -113,7 +113,7 @@ The proposed outcome of this workshop is to gain a better understanding of bioti
 ## Start the Workshop!
 
 <p class="text-center">
-  <a href="../02-intro/index.html">
+  <a href="https://www.globalbioticinteractions.org/ecm-workshop/02-intro/index.html">
     <button type="button" class="btn btn-info"> Start the workshop! </button>
   </a>
 </p>
@@ -155,7 +155,7 @@ of code below the Schedule `<h2>` header below with
 ## Start the Workshop!
 
 <p class="text-center">
-  <a href="../02-intro/index.html">
+  <a href="https://www.globalbioticinteractions.org/ecm-workshop/02-intro/index.html">
     <button type="button" class="btn btn-info"> Start the workshop! </button>
   </a>
 </p>
@@ -479,7 +479,7 @@ workshop is only open to people from a particular institution.
 ## Start the Workshop!
 
 <p class="text-center">
-  <a href="../02-intro/index.html">
+  <a href="https://www.globalbioticinteractions.org/ecm-workshop/02-intro/index.html">
     <button type="button" class="btn btn-info"> Start the workshop! </button>
   </a>
 </p>
