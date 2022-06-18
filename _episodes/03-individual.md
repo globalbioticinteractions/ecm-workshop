@@ -1,5 +1,5 @@
 ---
-title: "Individual Data Transcriptions Worksheet activity"
+title: "Individual Data Transcriptions Worksheet Activity"
 teaching: 
 exercises: 10
 questions:
