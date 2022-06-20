@@ -16,7 +16,7 @@ keypoints:
 
 Thank you for participating in this workshop! Hopefully this exercise sparked some interesting discussion. 
 
-After the workshop is complete, please email your worksheets to **[Erika](mailto:emtuckerlab@gmail.com)**. The reults will be compiled and share with you after the workshop. Novel results will also be made availble to those needing ideas on collecting and mapping assocation type data to database fields. 
+After the workshop is complete, please email your worksheets to **[Erika](mailto:emtuckerlab@gmail.com)**. The results will be compiled and shared with you after the workshop. Novel results will also be made availble to those needing ideas on collecting and mapping assocation type data to database fields. 
 
 Your name will be kept annonymous in the final compiled results.
 
