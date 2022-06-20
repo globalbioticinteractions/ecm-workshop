@@ -6,12 +6,15 @@ root: .
 
 ## Before the workshop, please make sure to:
 
-1. **Download [interactions.csv.gz](https://depot.globalbioticinteractions.org/snapshot/target/data/csv/interactions.csv.gz)** (~600MB compressed).
-2. Watch the ["What's GloBI?" video](https://vimeo.com/89373303) at [https://vimeo.com/89373303](https://vimeo.com/89373303) .
-3. Be ready to create a new blank [Google Sheet](https://sheets.google.com/) at  [https://sheets.google.com/](https://sheets.google.com/).
-4. Add you name to the participants list at [https://pad.carpentries.org/2021-04-28-globi-workshop](https://pad.carpentries.org/2021-04-28-globi-workshop). 
+1. **Download a copy of the activity worksheet**. There are several formats available to choose from. You will need one copy for the individual activity and a second copy for the group activity. You can fill these worksheets out on the computer or print them and handwrite answers - whatever is easiest for you. Please wait until the workshop actually starts to fill in your worksheets though :)
+* [Excel sheet (.xlsx)](../files/1-%20Individual%20Transcription%20Interactions%20Worksheet.xlsx?raw=true)
+* [Comma delimited (.csv)](../files/1-%20Individual%20Transcription%20Interactions%20Worksheet%20-%20Sheet1.csv)
+* [Google Spreadsheet (make copy or download)](https://docs.google.com/spreadsheets/d/1Avs_gVdz7Dg8KK4AsUzLTed9Lx3bz8grdxfq6ocqJlI/edit?usp=sharing)
+2. Make sure you can have two windows open on your computer (or split your screen between two monitors if you have them). See [Install the videoconferencing client](https://www.globalbioticinteractions.org/ecm-workshop/#setup) on home page. It will be necessary to view both the Zoom window with live feed from the workshop while also viewing the workshop webpage with instructions and specimen images.
+3. You will also need to be able to open an additonal brower window, or tab, to particpate in the live word cloud activity. The word cloud activity can be accomplished on a computer web browser, tablet, or phone web browser - any device that has internet connectivity. 
 
-Also, if you are interested in actively coding the "big" dataset (>6M records), please make sure that you are ready to go! We are doing a tutorial in R and you can follow along (but it is not required).  
+If you have any trouble getting setup, please contact [Erika](mailto:emtuckerlab@gmail.com) and [Jorrit](mailto:jhpoelen@jhpoelen.nl) before the workshop begins. 
+
 
 
 
