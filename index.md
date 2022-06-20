@@ -481,6 +481,7 @@ workshop is only open to people from a particular institution.
 {% elsif site.carpentry == "lc" %}
 {% include lc/who.html %}
 {% endif %}
+<hr/>
 
 ## Start the Workshop!
 
