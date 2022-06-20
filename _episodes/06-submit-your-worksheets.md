@@ -20,7 +20,7 @@ After the workshop is complete, please email your worksheets to **[Erika](mailto
 
 Your name will be kept annonymous in the final compiled results.
 
-> ## `Email **[Erika](mailto:emtuckerlab@gmail.com)** or upload to Google Drive`
+> ## `Email Erika or upload to Google Drive`
 >
 > Email your individual and group worksheet to **[Erika](mailto:emtuckerlab@gmail.com)**
 > * Alternatively, you can upload your worksheets to this shared **[Google Drive folder: Worksheet results 2022](https://drive.google.com/drive/folders/195MhJH47PJfrFbrm71MIytLbTCBSY1y-?usp=sharing)**. 
