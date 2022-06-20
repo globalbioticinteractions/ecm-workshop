@@ -2,18 +2,34 @@
 title: "Submit Your Worksheets"
 teaching: 0
 exercises: 0
+questions:
+- "Will anything come of my answers?"
 objectives:
 - "Submit your worksheets"
 keypoints:
-- "Email copy of results to Erika"
+- "Email copy of results to **[Erika](mailto:emtuckerlab@gmail.com)**"
 ---
 
 
-## Thank you!
+## Thank you! Please email me your worksheets!
+----------------
 
 Thank you for participating in this workshop! Hopefully this exercise sparked some interesting discussion. 
 
-Please email your worksheets to [Erika](mailto:emtuckerlab@gmail.com). We plan to compile the results and make them availble to those needing ideas on collecting and mapping assocation type data to database fields. 
+After the workshop is complete, please email your worksheets to **[Erika](mailto:emtuckerlab@gmail.com)**. The reults will be compiled and share with you after the workshop. Novel results will also be made availble to those needing ideas on collecting and mapping assocation type data to database fields. 
+
+Your name will be kept annonymous in the final compiled results.
+
+> ## `Email **[Erika](mailto:emtuckerlab@gmail.com)** or upload to Google Drive`
+>
+> Email your individual and group worksheet to **[Erika](mailto:emtuckerlab@gmail.com)**
+> * Alternatively, you can upload your worksheets to this shared **[Google Drive folder: Worksheet results 2022](https://drive.google.com/drive/folders/195MhJH47PJfrFbrm71MIytLbTCBSY1y-?usp=sharing)**. 
+> 
+> All individual responses will be kept annonymous in the final results compilation.  
+> 
+> Thank you!
+>
+{: .challenge}
 
 {% comment %}
 
