@@ -176,7 +176,9 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 <p>
-  To participate in this
+  
+  {% comment %}
+  To participate in this 
   {% if site.carpentry == "swc" %}
   Software Carpentry
   {% elsif site.carpentry == "dc" %}
@@ -184,11 +186,16 @@ please preview your site before committing, and make sure to run
   {% elsif site.carpentry == "lc" %}
   Library Carpentry
   {% endif %}
-  workshop,
-  you will need internet access and the ability to download spreadsheet files (.xlsx or .csv) or to use spreadsheet files in <a href = "https://www.google.com/sheets/about/">Google Doc/Sheets</a>.
-
-  In addition, you will need an up-to-date web browser.
+  {% endcomment %}
+  
+  To participate in this workshop,
+  you will need internet access and the ability to download spreadsheet files (.xlsx or .csv) or to use spreadsheet files in <a href = "https://www.google.com/sheets/about/">Google Doc/Sheets</a>. In addition, you will need an up-to-date web browser.
 </p>
+
+<p>
+A <a href = "https://github.com/globalbioticinteractions/ecm-workshop/raw/gh-pages/files/Interaction%20Workshop%20instruction%20slides.pdf">pdf version of the instructions for this workshop</a> (same slides that are used for the in-person portion of this workshop) is <a href = "https://github.com/globalbioticinteractions/ecm-workshop/raw/gh-pages/files/Interaction%20Workshop%20instruction%20slides.pdf">available here</a>. 
+</p>
+
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
