@@ -48,6 +48,7 @@ keypoints:
 > Fill in all columns of the worksheet as appropriate. 
 > 
 > <img src="../fig/Specimen_transcription_01.jpg" width="800" align="middle"  />
+> Photo courtesy of: [The Field Museum of Natural History Insect Collection](https://www.fieldmuseum.org/science/research/area/insects-arachnids-and-myriapods) 
 >
 {: .challenge}
 
@@ -56,6 +57,7 @@ keypoints:
 > Fill in all columns of the worksheet as appropriate. 
 > 
 > <img src="../fig/Specimen_transcription_02.jpg" width="800" align="middle"  />
+> Photo courtesy of: []()
 >
 {: .challenge}
 
@@ -64,6 +66,7 @@ keypoints:
 > Fill in all columns of the worksheet as appropriate. 
 > 
 > <img src="../fig/Specimen_transcription_03.jpg" height="600" align="middle"  />
+> Photo courtesy of: []()
 >
 {: .challenge}
 
@@ -72,6 +75,7 @@ keypoints:
 > Fill in all columns of the worksheet as appropriate. 
 > 
 > <img src="../fig/Specimen_transcription_04.jpg" width="800" align="middle"  />
+> Photo courtesy of: []()
 >
 {: .challenge}
 
@@ -80,6 +84,7 @@ keypoints:
 > Fill in all columns of the worksheet as appropriate. 
 > 
 > <img src="../fig/Specimen_transcription_05.jpg" width="800" align="middle"  />
+> Photo courtesy of: [Milwaukee Public Museum Invertebrate Zoology Collection](https://www.mpm.edu/index.php/research-collections/zoology/invertebrate-zoology/collections-overview)
 >
 {: .challenge}
 
@@ -88,6 +93,7 @@ keypoints:
 > Fill in all columns of the worksheet as appropriate. 
 > 
 > <img src="../fig/Specimen_transcription_06.jpg" width="800" align="middle"  />
+> Photo courtesy of: []()
 >
 {: .challenge}
 
@@ -96,6 +102,7 @@ keypoints:
 > Fill in all columns of the worksheet as appropriate. 
 > 
 > <img src="../fig/Specimen_transcription_07.jpg" width="800" align="middle"  />
+> Photo courtesy of: [The Field Museum of Natural History Insect Collection](https://www.fieldmuseum.org/science/research/area/insects-arachnids-and-myriapods)
 >
 {: .challenge}
 
