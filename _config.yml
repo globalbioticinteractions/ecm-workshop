@@ -19,7 +19,7 @@
 # pilot_lesson_site, pilot_pre_survey, and pilot_post_survey
 # lines further down this file and add the URL to the relevant lesson site.
 carpentry: "dc"
-life_cycle: "alpha"
+life_cycle: "stable"
 
 
 # This option is currently only needed for
