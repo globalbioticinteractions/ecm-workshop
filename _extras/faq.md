@@ -6,6 +6,39 @@ permalink: /faq/index.html
 
 ## General
 
+*Who can I contact for help? *
+:   For help with Interaction Data Workshop, email [Erika Tucker](mailto:emtuckerlab@gmail.com) and [Jorrit Poelen](jhpoelen@jhpoelen.nl). 
+:   For help with the overarching ECM Workshop, please contact the workshop team [workshop@ecnweb.org](workshop@ecnweb.org).
+
+*Are there projects related to this?*
+:   Yes! There are many projects that related to this workshop and can be used with the information learned here. Please check out the following: 
+:   * [Global Biotic Interactions (GloBI)](https://www.globalbioticinteractions.org/)
+:   * [Terrestrial Parasite Tracker](https://parasitetracker.org/) and [Parasite Tracker Portal](https://s2.parasitetracker.org/)
+:   * [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/)
+:   * [Entomological Collections Network](https://ecnweb.net/)
+
+*What institutions and organizations are involved in this workshop?*
+:   * [The Milwaukee Public Musuem](https://mpm.edu/)
+:   * [GloBI](https://globalbioticinteractions.org/)
+:   * [University of California, Santa Barbara, Cheadle Center for Biodiversity & Ecological Restoration](https://www.ccber.ucsb.edu/)
+:   * [The Ronin Institute](https://ronininstitute.org/)
+:   * [Terrestrial Parasite Tracker](https://parasitetracker.org/)
+:   * [The Entomological Collections Network](https://ecnweb.net/)
+:   * [Arizona State University, Hasbrouck Insect Collection](https://biokic.asu.edu/collections/asuhic)
+:   * [NSF](https://nsf.gov/)
+
+*How was this workshop funded?*
+:   This workshop was created as part of the overarching Entomological Collections Management Workshop and is funded by the National Science Foundation as part of the project: Towards a Sustainable Management of Insect Collections in the U.S. through the Entomological Collections Management Workshop (award# 1640919)[https://www.nsf.gov/awardsearch/showAward?AWD_ID=1640919]. Additional support is provided by the [Terrestrial Parasite Tracker project](https://parasitetracker.org/) through the National Science Foundation award “Collaborative Research: Digitization TCN: Digitizing collections to trace parasite-host associations and predict the spread of vector-borne disease,” Award numbers [DBI:1901932](https://nsf.gov/awardsearch/showAward?AWD_ID=1901932&HistoricalAwards=false) and [DBI:1901926](https://nsf.gov/awardsearch/showAward?AWD_ID=1901926&HistoricalAwards=false).
+
+*Can I re-use this workshop?*
+:   Yes! Please feel free to reuse this workshop. The more people that learn about the complicated nature of interaction data, the better :)
+:   If you would like to modify or build your own similar workshop using this as a template, please read the instructions in the [ReadMe file] here(https://github.com/globalbioticinteractions/ecm-workshop/). Our website used the Carpentries template (thank you Carpentries!) and everything is opensource using GitHub. 
+
+*Who do I contact about an problem with this website?*
+:   Please email [Erika Tucker](mailto:emtuckerlab@gmail.com) and [Jorrit Poelen](jhpoelen@jhpoelen.nl) for website issues, corrections, improvements, or to help build onto this workshop.
+
+
+{% comment %}
 *Where can I get help?*
 :   Mail us at [{{site.email}}](mailto:{{site.email}}),
     or join our [discussion list]({{site.swc_site}}/join/)
@@ -140,3 +173,6 @@ permalink: /faq/index.html
 
 [amy]: https://github.com/swcarpentry/amy
 [github-pages]: https://help.github.com/articles/creating-project-pages-manually/
+
+{% endcomment %}
+
