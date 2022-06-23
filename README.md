@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.com/carpentries/workshop-template.svg?branch=gh-pages)](https://travis-ci.com/carpentries/workshop-template)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6704580.svg)](https://doi.org/10.5281/zenodo.6704580)
+
 
 # The Carpentries Workshop Template
 
