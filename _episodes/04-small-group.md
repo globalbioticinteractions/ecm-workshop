@@ -49,7 +49,7 @@ One fun way to visualize results and find common terms is by creating a word clo
 
 > ## `Share your GROUP's interaction terms with a word cloud! (SESSION 1)`
 > ➡️ Go to: [https://www.menti.com/aladkj7nhs8o](https://www.menti.com/aladkj7nhs8o)
->   * Alternatively, go to [www.menti.com](https://www.menti.com/) and enter the code **5135 7745** (do not enter the 12 34 56 given - this asks you about super heros - something for another time)
+>   * Alternatively, go to [www.menti.com](https://www.menti.com/) and enter the code **5135 7745** 
 >   
 > ➡️ Enter the different interaction terms you used for each specimen. 
 >
@@ -69,7 +69,7 @@ One fun way to visualize results and find common terms is by creating a word clo
 
 > ## `Share your GROUP's interaction terms with a word cloud! (SESSION 2)`
 > ➡️ Go to: [https://www.menti.com/algx7hq2wn5c](https://www.menti.com/algx7hq2wn5c)
->   * Alternatively, go to [www.menti.com](https://www.menti.com/) and enter the code **7421 7946** (do not enter the 12 34 56 given - this asks you about super heros - something for another time)
+>   * Alternatively, go to [www.menti.com](https://www.menti.com/) and enter the code **7421 7946** 
 >   
 > ➡️ Enter the different interaction terms you used for each specimen. 
 >
