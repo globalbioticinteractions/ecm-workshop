@@ -106,7 +106,9 @@ keypoints:
 >
 {: .challenge}
 
-## Word Cloud! (Session 1)
+<br><br>
+
+# Word Cloud! (SESSION 1)
 ---------------------------------
 One fun way to visualize results and find common terms is by creating a word cloud.
 
@@ -124,7 +126,9 @@ One fun way to visualize results and find common terms is by creating a word clo
 > 
 {: .callout}
 
-## Word Cloud! (Session 2)
+<br><br>
+
+# Word Cloud! (SESSION 2)
 ---------------------------------
 One fun way to visualize results and find common terms is by creating a word cloud.
 
@@ -141,6 +145,7 @@ One fun way to visualize results and find common terms is by creating a word clo
 > Live results can also be viewed [here (https://bit.ly/ECMcloud2)](https://bit.ly/ECMcloud2).
 > 
 {: .callout}
+
 
 {% comment %}
 > ## `Import into a sqlite database`
