@@ -114,7 +114,7 @@ One fun way to visualize results and find common terms is by creating a word clo
 
 > ## `Share your interaction terms!`
 > ➡️ Go to: [https://www.menti.com/als8cx2muj1n](https://www.menti.com/als8cx2muj1n)
->   * Alternatively, go to [www.menti.com](https://www.menti.com/) and enter the code **3506 6926** (do not enter the 12 34 56 given below - this asks you about super heros - something for another time)
+>   * Alternatively, go to [www.menti.com](https://www.menti.com/) and enter the code **3506 6926** 
 >   
 > ➡️ Enter the different interaction terms you used for each specimen. 
 >
@@ -134,7 +134,7 @@ One fun way to visualize results and find common terms is by creating a word clo
 
 > ## `Share your interaction terms!`
 > ➡️ Go to: [https://www.menti.com/al6w6bo3q3hd](https://www.menti.com/al6w6bo3q3hd)
->   * Alternatively, go to [www.menti.com](https://www.menti.com/) and enter the code **7153 9451** (do not enter the 12 34 56 given below - this asks you about super heros - something for another time)
+>   * Alternatively, go to [www.menti.com](https://www.menti.com/) and enter the code **7153 9451** 
 >   
 > ➡️ Enter the different interaction terms you used for each specimen. 
 >
