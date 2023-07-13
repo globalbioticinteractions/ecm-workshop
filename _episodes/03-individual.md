@@ -106,21 +106,39 @@ keypoints:
 >
 {: .challenge}
 
-### Word Cloud!
+## Word Cloud! (Session 1)
 ---------------------------------
 One fun way to visualize results and find common terms is by creating a word cloud.
 
 > ## `Share your interaction terms!`
-> ➡️ Go to: [https://www.menti.com/n3p72kte12](https://www.menti.com/n3p72kte12)
->   * Alternatively, go to [www.menti.com](https://www.menti.com/) and enter the code **9959 2027** (do not enter the 12 34 56 given below - this asks you about super heros - something for another time)
+> ➡️ Go to: [https://www.menti.com/als8cx2muj1n](https://www.menti.com/als8cx2muj1n)
+>   * Alternatively, go to [www.menti.com](https://www.menti.com/) and enter the code **3506 6926** (do not enter the 12 34 56 given below - this asks you about super heros - something for another time)
 >   
 > ➡️ Enter the different interaction terms you used for each specimen. 
 >
 > See the word cloud results in real time as everyone submits terms! 
 > 
-> <div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/1d2447b55029b09b8b003341ba3ce933/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+> <div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/alkrrxjj2u56a658567mx1rprv89kc2s/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
 > 
-> Live results can also be viewed [here](https://www.mentimeter.com/app/presentation/1d2447b55029b09b8b003341ba3ce933).
+> Live results can also be viewed [here (https://bit.ly/ECMcloud1)](https://bit.ly/ECMcloud1).
+> 
+{: .callout}
+
+## Word Cloud! (Session 2)
+---------------------------------
+One fun way to visualize results and find common terms is by creating a word cloud.
+
+> ## `Share your interaction terms!`
+> ➡️ Go to: [https://www.menti.com/al6w6bo3q3hd](https://www.menti.com/al6w6bo3q3hd)
+>   * Alternatively, go to [www.menti.com](https://www.menti.com/) and enter the code **7153 9451** (do not enter the 12 34 56 given below - this asks you about super heros - something for another time)
+>   
+> ➡️ Enter the different interaction terms you used for each specimen. 
+>
+> See the word cloud results in real time as everyone submits terms! 
+> 
+> <div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/alrfprgvz289vo2216t4q7qu7opsye67/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+> 
+> Live results can also be viewed [here (https://bit.ly/ECMcloud2)](https://bit.ly/ECMcloud2).
 > 
 {: .callout}
 
