@@ -108,6 +108,7 @@ keypoints:
 
 <br><br>
 
+---
 # Word Cloud! (SESSION 1)
 ---------------------------------
 One fun way to visualize results and find common terms is by creating a word cloud.
@@ -128,6 +129,7 @@ One fun way to visualize results and find common terms is by creating a word clo
 
 <br><br>
 
+---
 # Word Cloud! (SESSION 2)
 ---------------------------------
 One fun way to visualize results and find common terms is by creating a word cloud.
