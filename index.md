@@ -4,15 +4,15 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "Entomology Collections Management Association Data Workshop"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "in-person @ ASU | online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "in-person @ CMNH | online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "FIXME"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "FIXME"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "45"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-1"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "22 June 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "2-4p Mountain Standard Time"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2022-06-22      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2022-06-22        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+humandate: "19 July 2023"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "2-4p Eastern Standard Time"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2023-07-19      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2023-07-19        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Erika Tucker", "Jorrit Poelen", "Katja Seltmann", "Kathryn Sullivan", "Jennifer Zaspel"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: [ "you!" ]
 
@@ -94,15 +94,15 @@ Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
 
-This Carpentries workshop activity is part of the 4th offering of the Entomological Collections Management (ECM) Workshop. This hybrid model workshop activity will be held both in-person at Arizona State University (ASU) in Tempe, Arizona and virtually on June 22nd. The full ECM Workshop is from June 20-24, 2022 and is also following a hybrid model (on-site events begin the evening of the 19th) (see the [ECM Workshop site](https://ecnweb.net/workshop/)).
+This Carpentries workshop activity is part of the 5th offering of the Entomological Collections Management (ECM) Workshop. This hybrid model workshop activity will be held both in-person at Cleveland Museum of Natural History (CMNH) in Cleveland, Ohio and virtually on July 19th. The full ECM Workshop is from July 16-20, 2023 and is also following a hybrid model (on-site events begin the evening of the 15th) (see the [ECM Workshop site](https://ecnweb.net/workshop/)). 
 
-❗**Important time zone note**❗ The live work shop session is in Arizona. Most of **Arizona does _not_ follow daylight savings time**, they are on Mountain Standard Time (GMT-7) (not to be confused with Mountain Daylight time or Mountain Time which is the first thing that comes up on Google). This means, during June, participants on EDT (GMT-4) have a 3 hour different (Washington DC), CST (GMT-5) a 2 hour differnce (Chicago), MDT (GMT-6) a 1 hour difference (Denver), and PDT (GMT-7) is currently in the same time zone (Los Angeles). This will change in the fall when daylight saving time ends for most folks. For additional time zones please check out one of these free world time zone converters:
+❗**Important time zone note**❗ The live workshop session is in Ohio, USA. Ohio is on Eastern Standard Time (GMT-5). For additional time zones please check out one of these free world time zone converters:
 * [Time and Date](https://www.timeanddate.com/worldclock/converter.html?iso=20220617T163000) (can add multiple times and places)
 * [24 Times Zones](https://24timezones.com/difference)
 
-Join Erika Tucker and Jorrit Poelen for an examination of specimen association data and terminology followed by discussion on interpretations and downsteam usage. 
+Join Jen Zaspel and Erika Tucker for an examination of specimen association data and terminology followed by discussion on interpretations and downsteam usage. 
 
-During this one-hour long, participatory workshop for collection managers, collection caretakers, and anyone interested in learning about association data, we will examine label data from real specimens in collections that have association data.  We will discuss commonly used terms one may encounter in many databases, potential interpretations, and how best to capture data so that is usable by researchers and data users downstream. 
+During this one-hour long participatory workshop for collection managers, collection caretakers, and anyone interested in learning about association data, we will examine label data from real specimens in collections that have association data.  We will discuss commonly used terms one may encounter in many databases, potential interpretations, and how best to capture data so that is usable by researchers and data users downstream. There will be two separate, one-hour long, identical sessions so particpants can switch between this and other onsite activities.
 
 This workshop is open to anyone interested in biotic or species interaction data even if you are presently not using GloBI. We will highlight data from the Terrestrial Parasite Tracker project, but the methods are available for anyone interested in biotic interactions (see more at https://www.globalbioticinteractions.org/sources).
 
