@@ -41,6 +41,7 @@ The goal of this exercise is to take the transcriptions and association data int
 > 
 {: .challenge}
 
+<br><br>
 
 # Word Cloud! (SESSION 1)
 ---------------------------------
@@ -60,6 +61,7 @@ One fun way to visualize results and find common terms is by creating a word clo
 > 
 {: .callout}
 
+<br><br>
 
 # Word Cloud! (SESSION 2)
 ---------------------------------
